@@ -1,0 +1,24 @@
+﻿l_english:
+
+ #These techs don't have localized names in vanilla HoI.
+
+ early_ship_hull_heavy:1 "1922 Heavy Ship Hull"
+ construction_tech_research:0 "Construction Research Speed"
+ plane_modules_tech:0 "Plane Modules"
+ maintenance_company_tech:0 "Maintenance Company"
+ military_police_tech:0 "Military Police"
+ signal_company_tech:0 "Signal Company"
+ excavation_tech_research:0 "Excavation Research Speed"
+ 
+ 
+
+ ###
+ 
+ OG_forest_warfare_tech:0 "Arboreal Combat Training"
+ OG_urban_warfare_tech:0 "Shock Troop Tactics"
+
+ OG_militia_tech:0 "Militia Battalions"
+ OG_assault_battalion_tech:0 "Assault Battalions"
+
+
+ 

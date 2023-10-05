@@ -1,0 +1,7 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_texticon_empty_desc"
+		texturefile = "gfx/texticons/muse-dash.png"
+		legacy_lazy_load = no
+	}
+}

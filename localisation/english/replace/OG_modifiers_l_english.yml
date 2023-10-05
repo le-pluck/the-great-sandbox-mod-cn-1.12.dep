@@ -1,0 +1,24 @@
+﻿l_english:
+ 
+ #################
+ ### MODIFIERS ###
+ #################
+ 
+ theorist_cost_factor:0 "£military_theorist_cost_texticon  Civilian Theorist Cost"    # Modded
+ army_theorist_cost_factor:0 "£military_theorist_cost_texticon  Army Theorist Cost"    # Modded
+ air_theorist_cost_factor:0 "£military_theorist_cost_texticon  Airforce Theorist Cost"
+ navy_theorist_cost_factor:0 "£military_theorist_cost_texticon  Navy Theorist Cost"
+ 
+ army_chief_cost_factor:0 "Army Chief Cost"
+ air_chief_cost_factor:0 "Airforce Chief Cost"      # Modded
+ navy_chief_cost_factor:0 "Navy Chief Cost"
+
+ army_high_command_cost_factor:0 "£high_command_cost_texticon  Army High Command Cost"       #
+ air_high_command_cost_factor:0 "£high_command_cost_texticon  Airforce High Command Cost"    #
+ navy_high_command_cost_factor:0 "£high_command_cost_texticon  Navy High Command Cost"       #
+ 
+ economy_advisor_cost_factor:0 "£political_advisor_cost_texticon  Economy Advisor Cost"
+ laws_social_cost_factor:0 "£economy_laws_cost_texticon  Social Policy Cost"
+ foreign_policy_laws_cost_factor:0 "£economy_laws_cost_texticon  Foreign Policy Cost"
+  
+ 

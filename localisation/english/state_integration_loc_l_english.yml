@@ -1,0 +1,146 @@
+﻿l_english: 
+
+
+
+ # The state integration decisions must be kept separate due to inability to scope the custom cost text to the state itself.
+
+ OG_forceful_required_manpower_cost_1:0 "§Y£manpower_texticon 12K§!"
+ OG_forceful_required_manpower_cost_1_blocked:0 "§R£manpower_texticon 12000§!"
+ OG_forceful_required_manpower_cost_1_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_1:0 "§Y£political_power_texticon 120§!"
+ OG_peaceful_required_political_power_cost_1_blocked:0 "§R£political_power_texticon 120§!"
+ OG_peaceful_required_political_power_cost_1_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_2:0 "§Y£manpower_texticon 11K§!"
+ OG_forceful_required_manpower_cost_2_blocked:0 "§R£manpower_texticon 11K§!"
+ OG_forceful_required_manpower_cost_2_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_2:0 "§Y£political_power_texticon 110§!"
+ OG_peaceful_required_political_power_cost_2_blocked:0 "§R£political_power_texticon 110§!"
+ OG_peaceful_required_political_power_cost_2_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_3:0 "§Y£manpower_texticon 10K§!"
+ OG_forceful_required_manpower_cost_3_blocked:0 "§R£manpower_texticon 10K§!"
+ OG_forceful_required_manpower_cost_3_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_3:0 "§Y£political_power_texticon 100§!"
+ OG_peaceful_required_political_power_cost_3_blocked:0 "§R£political_power_texticon 100§!"
+ OG_peaceful_required_political_power_cost_3_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_4:0 "§Y£manpower_texticon 9K§!"
+ OG_forceful_required_manpower_cost_4_blocked:0 "§R£manpower_texticon 9K§!"
+ OG_forceful_required_manpower_cost_4_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_4:0 "§Y£political_power_texticon 90§!"
+ OG_peaceful_required_political_power_cost_4_blocked:0 "§R£political_power_texticon 90§!"
+ OG_peaceful_required_political_power_cost_4_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_5:0 "§Y£manpower_texticon 8K§!"
+ OG_forceful_required_manpower_cost_5_blocked:0 "§R£manpower_texticon 8K§!"
+ OG_forceful_required_manpower_cost_5_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_5:0 "§Y£political_power_texticon 80§!"
+ OG_peaceful_required_political_power_cost_5_blocked:0 "§R£political_power_texticon 80§!"
+ OG_peaceful_required_political_power_cost_5_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_6:0 "§Y£manpower_texticon 7K§!"
+ OG_forceful_required_manpower_cost_6_blocked:0 "§R£manpower_texticon 7K§!"
+ OG_forceful_required_manpower_cost_6_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_6:0 "§Y£political_power_texticon 70§!"
+ OG_peaceful_required_political_power_cost_6_blocked:0 "§R£political_power_texticon 70§!"
+ OG_peaceful_required_political_power_cost_6_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_7:0 "§Y£manpower_texticon 6K§!"
+ OG_forceful_required_manpower_cost_7_blocked:0 "§R£manpower_texticon 6K§!"
+ OG_forceful_required_manpower_cost_7_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_7:0 "§Y£political_power_texticon 60§!"
+ OG_peaceful_required_political_power_cost_7_blocked:0 "§R£political_power_texticon 60§!"
+ OG_peaceful_required_political_power_cost_7_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_8:0 "§Y£manpower_texticon 5K§!"
+ OG_forceful_required_manpower_cost_8_blocked:0 "§R£manpower_texticon 5K§!"
+ OG_forceful_required_manpower_cost_8_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_8:0 "§Y£political_power_texticon 50§!"
+ OG_peaceful_required_political_power_cost_8_blocked:0 "§R£political_power_texticon 50§!"
+ OG_peaceful_required_political_power_cost_8_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_9:0 "§Y£manpower_texticon 4K§!"
+ OG_forceful_required_manpower_cost_9_blocked:0 "§R£manpower_texticon 4K§!"
+ OG_forceful_required_manpower_cost_9_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_9:0 "§Y£political_power_texticon 40§!"
+ OG_peaceful_required_political_power_cost_9_blocked:0 "§R£political_power_texticon 40§!"
+ OG_peaceful_required_political_power_cost_9_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_10:0 "§Y£manpower_texticon 1K§!"
+ OG_forceful_required_manpower_cost_10_blocked:0 "§R£manpower_texticon 1000§!"
+ OG_forceful_required_manpower_cost_10_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_10:0 "§Y£political_power_texticon 10§!"
+ OG_peaceful_required_political_power_cost_10_blocked:0 "§R£political_power_texticon 10§!"
+ OG_peaceful_required_political_power_cost_10_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_11:0 "§Y£manpower_texticon 3K§!"
+ OG_forceful_required_manpower_cost_11_blocked:0 "§R£manpower_texticon 3K§!"
+ OG_forceful_required_manpower_cost_11_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_11:0 "§Y£political_power_texticon 30§!"
+ OG_peaceful_required_political_power_cost_11_blocked:0 "§R£political_power_texticon 30§!"
+ OG_peaceful_required_political_power_cost_11_tooltip:0 ""
+ 
+ OG_forceful_required_manpower_cost_12:0 "§Y£manpower_texticon 2K§!"
+ OG_forceful_required_manpower_cost_12_blocked:0 "§R£manpower_texticon 2K§!"
+ OG_forceful_required_manpower_cost_12_tooltip:0 ""
+ OG_peaceful_required_political_power_cost_12:0 "§Y£political_power_texticon 20§!"
+ OG_peaceful_required_political_power_cost_12_blocked:0 "§R£political_power_texticon 20§!"
+ OG_peaceful_required_political_power_cost_12_tooltip:0 ""
+ 
+ 
+ integrate_megalopolis_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_megalopolis_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+
+ integrate_metropolis_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_metropolis_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+
+ integrate_large_city_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_large_city_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_city_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_city_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_large_town_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_large_town_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_town_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_town_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_rural_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_rural_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_pastoral_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_pastoral_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_small_island_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_small_island_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_tiny_island_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_tiny_island_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_enclave_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_enclave_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ integrate_wasteland_peacefully:0 "Integrate the State of [FROM.GetName] Peacefully"
+ integrate_wasteland_by_force:0 "Integrate the State of [FROM.GetName] by Force"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GLO_state_integration_category:0 "Integrating our Occupied States"
+ GLO_state_integration_category_desc:0 "With enough force and time, we should be able to integrate states we have occupied into our territory. It may cost us some resources, but it will be worth it in the long run. \n\n\n§GPeaceful§! §YIntegration Requirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G[?GLO_p_comp_cost|G0]%§!\n   £pol_violence  §YReistance§! at or below §G[?GLO_p_res_cost|G0]%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G[?GLO_p_mp_cost|G0]§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G[?GLO_p_inf_cost|G0]§!\n   £pol_power  §G[?GLO_p_pp_cost|G0]§! §YPolitical Power§!\n\n\n§YIntegration by§! §RForce§! §YRequirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G[?GLO_f_comp_cost|G0]%§!\n   £pol_violence  §YReistance§! at or below §G[?GLO_f_res_cost|G0]%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G[?GLO_f_mp_cost|G0]§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G[?GLO_f_inf_cost|G0]§!\n   £pol_idea  Does NOT have a §YDemocratic§! or §YNon-Aligned§! Government in Power"
+ GLO_medium_difficulty_tt:0 "These will be the requirements to integrate states: \n\n\n§GPeaceful§! §YIntegration Requirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G[?GLO_p_comp_cost|G0]%§!\n   £pol_violence  §YReistance§! at or below §G[?GLO_p_res_cost|G0]%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G[?GLO_p_mp_cost|G0]§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G[?GLO_p_inf_cost|G0]§!\n   £pol_power  §G[?GLO_p_pp_cost|G0]§! §YPolitical Power§!\n\n\n§YIntegration by§! §RForce§! §YRequirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G[?GLO_f_comp_cost|G0]%§!\n   £pol_violence  §YReistance§! at or below §G[?GLO_f_res_cost|G0]%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G[?GLO_f_mp_cost|G0]§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G[?GLO_f_inf_cost|G0]§!\n   £pol_idea  Does NOT have a §YDemocratic§! or §YNon-Aligned§! Government in Power"
+ GLO_easy_difficulty_tt:0 "These will be the requirements to integrate states: \n\n\n§GPeaceful§! §YIntegration Requirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G70%§!\n   £pol_violence  §YReistance§! at or below §G25%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G300§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G150§!\n   £pol_power  §G35§! §YPolitical Power§!\n\n\n§YIntegration by§! §RForce§! §YRequirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G30%§!\n   £pol_violence  §YReistance§! at or below §G40%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G6500§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G1000§!\n   £pol_idea  Does NOT have a §YDemocratic§! or §YNon-Aligned§! Government in Power"
+ GLO_hard_difficulty_tt:0 "These will be the requirements to integrate states: \n\n\n§GPeaceful§! §YIntegration Requirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G90%§!\n   £pol_violence  §YReistance§! at or below §G10%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G1000§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G500§!\n   £pol_power  §G80§! §YPolitical Power§!\n\n\n§YIntegration by§! §RForce§! §YRequirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G40%§!\n   £pol_violence  §YReistance§! at or below §G30%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G13500§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G2750§!\n   £pol_idea  Does NOT have a §YDemocratic§! or §YNon-Aligned§! Government in Power"
+ GLO_very_hard_difficulty_tt:0 "These will be the requirements to integrate states: \n\n\n§GPeaceful§! §YIntegration Requirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G95%§!\n   £pol_violence  §YReistance§! at or below §G5%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G1500§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G750§!\n   £pol_power  §G100§! §YPolitical Power§!\n\n\n§YIntegration by§! §RForce§! §YRequirements:§!\n   £national_unity_texticon  §YCompliance§! of at least §G45%§!\n   £pol_violence  §YReistance§! at or below §G25%§!\n   £manpower_texticon  §YAvailable Manpower§! Over §G20000§!\n   £unit_category_light_infantry_icon_small  §YInfantry Equipment in Stockpile§! Over §G4000§!\n   £pol_idea  Does NOT have a §YDemocratic§! or §YNon-Aligned§! Government in Power"
+ show_hide_integration_decisions:0 "Show/Hide State Integration Decisions"
+ difficultyevent.1.t:0 "State Integration Difficulty Selection"
+ difficultyevent.1.d:0 "How difficult would you like it to be to integrate states? \n\nThe harder the difficulty, the bigger the prerequisites in order to integrate a state."
+ difficultyevent.1.a:0 "§GEasy§! Difficulty"
+ difficultyevent.1.b:0 "§YMedium§! Difficulty"
+ difficultyevent.1.c:0 "§OHard§! Difficulty"
+ difficultyevent.1.e:0 "§RVery Hard§! Difficulty"

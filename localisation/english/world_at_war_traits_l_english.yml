@@ -1,0 +1,71 @@
+﻿l_english:
+
+ OG_people_leader_trait:0 "People's Leader"
+
+
+
+ ideology_advisor_trait_democracy_nepotist:0 "Democratic Nepotist"
+ ideology_advisor_trait_neutrality_nepotist:0 "Non-Aligned Nepotist"
+ ideology_advisor_trait_fascism_nepotist:0 "Fascist Nepotist"
+ ideology_advisor_trait_communism_nepotist:0 "Communist Nepotist"
+
+
+ ideology_advisor_trait_socialism:0 "Union Boss"
+ ideology_advisor_trait_conservatism:0 "Trustworthy Veteran"
+ ideology_advisor_trait_liberalism:0 "Freethinker"
+ #ideology_advisor_trait_centrism:0 ""
+ 
+ ideology_advisor_trait_marxism:0 "Permanent Revolutionary"
+ ideology_advisor_trait_anarchist_communism:0 "Unity in Anarchy"
+ ideology_advisor_trait_anti_revisionism:0 "Great-Leap-Forward Proponent"
+ #ideology_advisor_trait_:0 ""
+
+ ideology_advisor_trait_gen_nazism:0 "Eugenicist"   #Hmm too controversial?
+ ideology_advisor_trait_fascism_ideology:0 "Paramilitary Organizer"
+ ideology_advisor_trait_falangism:0 "Ardent Zealot"
+ #ideology_advisor_trait_ultranationalism:0 "Chauvinist Champion"
+
+ ideology_advisor_trait_centrism:0 "Trade Mogul"
+ ideology_advisor_trait_despotism:0 "King's Man"
+ ideology_advisor_trait_oligarchism:0 "Influential Figurehead"
+ #ideology_advisor_trait_theocratism:0 "Prophet"
+ #ideology_advisor_trait_military_junta:0 ""
+ 
+ 
+ agrarian_union_leader:0 "Agrarian Director"
+ religious_icon:0 "Religious Icon"
+
+ army_planning_1:1 "Improvisation\n(Specialist)"
+ army_planning_2:1 "Improvisation\n(Expert)"
+ army_planning_3:1 "Improvisation\n(Genius)"
+
+ army_chief_entrenchment_1:0 "Engineering\n(Specialist)"
+ army_chief_entrenchment_2:0 "Engineering\n(Expert)"
+ army_chief_entrenchment_3:0 "Engineering\n(Genius)"
+
+ head_of_national_security:0 "Secret Policeman"
+ spider_in_the_web:0 "Spider in the Web"
+ professional_agitator:0 "Professional Agitator"
+
+ army_administrator:0 "Army Administrator"
+ air_administrator:0 "Airforce Administrator"
+ navy_administrator:0 "Navy Administrator"
+ 
+ retired_army_officer:0 "Retired Army Officer"
+ retired_air_officer:0 "Retired Airforce Officer"
+ retired_navy_officer:0 "Retired Navy Officer"
+
+ #Small Fleet Organizer
+ navy_chief_small_fleet_organizer_1:0 "Naval Underdog\n(Specialist)"
+ navy_chief_small_fleet_organizer_2:0 "Naval Underdog\n(Expert)"
+ navy_chief_small_fleet_organizer_3:0 "Naval Underdog\n(Genius)"
+ 
+ OG_transport_plane_manufacturer:0 "Transport Aircraft Designer"
+ OG_rocketry_equipment_manufacturer:0 "Rocket Artillery Designer"
+ OG_vehicle_refurbishment_plant:0 "Vehicle Refurbishment Plant"
+ OG_mining_concern:0 "Mining Concern"
+ OG_mechanized_manufacturer:0 "Mechanized Equipment Designer"
+ OG_research_institute:0 "Research Institute"
+ 
+ 
+ 

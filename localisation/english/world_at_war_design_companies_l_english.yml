@@ -1,0 +1,88 @@
+﻿l_english:
+
+ OG_generic_light_tank_manufacturer:0 "[ROOT.GetNonIdeologyName] Mobile Machineries"
+ OG_generic_light_tank_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Mobile Machineries is the best!"
+ 
+ OG_generic_medium_tank_manufacturer:0 "[ROOT.GetNonIdeologyName] Tank Workshop"
+ OG_generic_medium_tank_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Tank Workshop is the best!"
+ 
+ OG_generic_heavy_tank_manufacturer:0 "[ROOT.GetNonIdeologyName] Tractor Manufacturer"
+ OG_generic_heavy_tank_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Tractor Manufacturer is the best!"
+ 
+ OG_generic_tank_refurbishment_manufacturer:0 "[ROOT.GetNonIdeologyName] Refurbishment Plant"
+ OG_generic_tank_refurbishment_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Refurbishment Plant is the best!"
+ 
+ OG_generic_battlefleet_naval_manufacturer:0 "[ROOT.GetNonIdeologyName] Cruise Lines"
+ OG_generic_battlefleet_naval_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Cruise Lines is the best!"
+ 
+ OG_generic_coastal_naval_manufacturer:0 "[ROOT.GetNonIdeologyName] Coastguard Service"
+ OG_generic_coastal_naval_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Coastguard Service is the best!"
+ 
+ OG_generic_raiding_naval_manufacturer:0 "[ROOT.GetNonIdeologyName] Grand Shipyard"
+ OG_generic_raiding_naval_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Grand Shipyard is the best!"
+ 
+ OG_generic_convoy_escort_manufacturer:0 "[ROOT.GetNonIdeologyName] Sailing Organization"
+ OG_generic_convoy_escort_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Sailing Organization is the best!"
+ 
+ OG_generic_light_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Aviation Club"
+ OG_generic_light_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Aviation Club is the best!"
+ 
+ OG_generic_cas_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Stunt Innovations Group"
+ OG_generic_cas_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Stunt Innovations Group is the best!"
+ 
+ OG_generic_medium_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Pilots Association"
+ OG_generic_medium_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Pilots Association is the best!"
+ 
+ OG_generic_heavy_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Airlines"
+ OG_generic_heavy_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Airlines is the best!"
+ 
+ OG_generic_naval_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Maritime Aeronautics"
+ OG_generic_naval_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Maritime Aeronautics is the best!"
+ 
+ OG_generic_fuel_efficient_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Gliders"
+ OG_generic_fuel_efficient_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Budget Air is the best!"
+ 
+ OG_generic_transport_aircraft_manufacturer:0 "[ROOT.GetNonIdeologyName] Airlift"
+ OG_generic_transport_aircraft_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Airlift is the best!"
+ 
+ OG_generic_industrial_concern:0 "[ROOT.GetNonIdeologyName] Industrial Works"
+ OG_generic_industrial_concern_desc:0 "[ROOT.GetNonIdeologyName] Industrial Works is the best!"
+ 
+ OG_generic_electronics_concern:0 "[ROOT.GetNonIdeologyName] Electronic Solutions"
+ OG_generic_electronics_concern_desc:0 "[ROOT.GetNonIdeologyName] Electronic Solutions is the best!"
+ 
+ OG_generic_refinery_concern:0 "[ROOT.GetNonIdeologyName] Refinery Concern"
+ OG_generic_refinery_concern_desc:0 "[ROOT.GetNonIdeologyName] Refinery Concern is the best!"
+ 
+ OG_generic_mining_concern:0 "[ROOT.GetNonIdeologyName] Mining Corporation"
+ OG_generic_mining_concern_desc:0 "[ROOT.GetNonIdeologyName] Mining Corporation is the best!"
+ 
+ OG_generic_railway_concern:0 "[ROOT.GetNonIdeologyName] State Railways"
+ OG_generic_railway_concern_desc:0 "[ROOT.GetNonIdeologyName] State Railways is the best!"
+ 
+ OG_generic_construction_concern:0 "[ROOT.GetNonIdeologyName] Constructions"
+ OG_generic_construction_concern_desc:0 "[ROOT.GetNonIdeologyName] Constructions is the best!"
+ 
+ OG_generic_research_institute:0 "[ROOT.GetNonIdeologyName] Research Institute"
+ OG_generic_research_institute_desc:0 "[ROOT.GetNonIdeologyName] Research Institute is the best!"
+ 
+ OG_generic_artillery_manufacturer:0 "[ROOT.GetNonIdeologyName] Cannon Foundry"
+ OG_generic_artillery_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Cannon Foundry is the best!"
+ 
+ OG_generic_infantry_equipment_company:0 "[ROOT.GetNonIdeologyName] Armament Factory"
+ OG_generic_infantry_equipment_company_desc:0 "[ROOT.GetNonIdeologyName] Armament Factory is the best!"
+ 
+ OG_generic_motorization_company:0 "[ROOT.GetNonIdeologyName] Motors Company"
+ OG_generic_motorization_company_desc:0 "[ROOT.GetNonIdeologyName] Motors Company is the best!"
+
+ OG_generic_mechanized_manufacturer:0 "[ROOT.GetNonIdeologyName] Automotive Performance"
+ OG_generic_mechanized_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Automotive Performance is the best!"
+
+ OG_generic_rocketry_manufacturer:0 "[ROOT.GetNonIdeologyName] Pyrotechnical Systems"
+ OG_generic_rocketry_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Pyrotechnical Systems is the best!"
+ 
+ OG_generic_support_equipment_manufacturer:0 "[ROOT.GetNonIdeologyName] Supportive Productions"
+ OG_generic_support_equipment_manufacturer_desc:0 "[ROOT.GetNonIdeologyName] Supportive Productions is the best!"
+ 
+ 
+ 

@@ -1,0 +1,92 @@
+﻿l_english:
+ NSB_border_conflict_decision_category:0 "Border Clashes"
+ NSB_border_conflict_decision_category_desc:0 "Our neighbors occupy land we want. By 'negotiating' with officials and journalists while pursuing this obscure conflict; the international community will not get involved."
+ NSB_border_conflict_initiate_incident:0 "Stage Incident at [From.From.GetName] Border"
+ NSB_border_conflict_incident_warning_defender:0 "Incident at [From.From.GetName] border to [From.GetNameDef]"
+ NSB_border_conflict_incident_warning_defender_desc:0 "§WMove divisions to §H[From.From.GetName]§!§!"
+ NSB_border_conflict_escalation_warning_defender:0 "Incident at [From.From.GetName] border to [From.GetNameDef]"
+ NSB_border_conflict_escalation_warning_defender_desc:0 "§WMaintain divisions in §H[From.From.GetName]§!\n§H[From.GetNameDef]§! can escalate to a §HBorder Conflict§!§!."
+ escalation_possible_tooltip_for_defender:0 "§H[From.GetNameDef]§! can escalate incident to a §HBorder Conflict§!.\nWe will instantly lose if we have no divisions in the state\n"
+ effects_if_border_conflict_is_lost:0 "§HEffects if Border Conflict is lost§!:\n"
+ from_cannot_escalate:0 "§H[From.GetNameDef]§! can no longer escalate to a §HBorder Conflict§!.\n\n"
+ NSB_escalate_incident_to_border_conflict:0 "Escalate to Border Conflict with [From.GetName]"
+ NSB_border_incident_forgotten:0 "Incident in [From.From.GetName] Forgotten"
+ NSB_border_incident_delay_until_new_incident_120:0 "Cannot stage a new incident against §H[From.GetName]§! for §H60§! days.\n"
+ NSB_border_incident_delay_until_new_incident_180:0 "Cannot stage a new incident against §H[From.GetName]§! for §H180§! days.\n"
+ NSB_border_conflict_time_until_cancelled:0 "No Progress in [From.From.GetName]"
+ NSB_border_conflict_back_out_of_conflict:0 "Withdraw from Conflict"
+ NSB_border_conflict_escalate_conflict:0 "Escalate Conflict"
+ NSB_border_conflict_escalate_to_war:0 "Escalate To War"
+ defensive_border_conflict_won:0 "Defensive Border Conflict Won"
+ not_initiated_border_incident_with_FROM:0 "Has not initiated a Border Incident with [From.GetNameDef]"
+ not_initiated_border_incident_with_ROOT:0 "Has not initiated a Border Incident with [Root.GetNameDef]"
+ at_least_one_division_in_state:0 "At least §H1§! division in the State"
+ in_45_days:0 "In 45 Days:\n"
+ border_incident_active:0 "States do not have an active border incident"
+
+### #   # ### #  # ###  ## 
+#   #   # #   ## #  #  #   
+##   # #  ##  # ##  #   #  
+#    # #  #   #  #  #    # 
+###   #   ### #  #  #  ##  
+ NSB_border_conflict_won_attacker.1.t:0 "Favorable negotiated outcome in [their_state.GetName]"
+ NSB_border_conflict_won_attacker.1.desc:0 "The often tense negotiations in the borderlands between [our_state.GetName] and [their_state.GetName] saw our side obtaining a clearly favorable agreement with [their_country.GetLeader]. The [their_country.GetAdjective] officials have since moved out and our people have accepted control of that area."
+ NSB_border_conflict_won_attacker.1.a:0 "We've reached a favorable agreement with our neighbor! Nothing more to see here!"
+ NSB_border_conflict_won_defender.1.t:0 "Victory in [their_state.GetName]"
+ NSB_border_conflict_won_defender.1.desc:0 "The clash in the borderlands between [our_state.GetName] and [their_state.GetName] saw our forces win a clear victory over the forces of [their_country.GetLeader]. The [their_country.GetAdjective] forces have fallen back to regroup, and our forces have taken control of the disputed area."
+ NSB_border_conflict_won_defender.1.a:0 "We've shown them our strength!"
+ NSB_border_conflict_lost_attacker.1.t:0 "Defeat in [our_state.GetName]"
+ NSB_border_conflict_lost_attacker.1.desc:0 "Officials under the direction of [their_country.GetLeader] have struck a bargain where we have informally agreed to let them take over our humanitarian aid work in the area between [our_state.GetName] and [their_state.GetName]. Our officials have graciously left food and equipment behind and are reorganising should we want to continue our relief efforts there in the future."
+ NSB_border_conflict_lost_attacker.1.a:0 "We must negotiate, bribe and counterattack as soon as possible!"
+ NSB_border_conflict_lost_defender.1.t:0 "Defeat in [our_state.GetName]"
+ NSB_border_conflict_lost_defender.1.desc:0 "Forces under the command of [their_country.GetLeader] have succeeded in pushing us out of the disputed area between [our_state.GetName] and [their_state.GetName]. Our forces have retreated in good order and are reorganising should we want to renew the battle in the future."
+ NSB_border_conflict_lost_defender.1.a:0 "We must negotiate, bribe and counterattack as soon as possible!"
+ NSB_border_conflict_canceled_attacker.1.t:0 "Negotiations Stalemate in [their_state.GetName]"
+ NSB_border_conflict_canceled_attacker.1.desc:0 "Relief aid to the people in the [our_state.GetName]-[their_state.GetName] area has ground to a halt as we have proven unable to come to an agreement with this neighbor. Officials report that the [their_country.GetAdjective] representatives have dug in their heels. At this time we cannot further expand our humanitarian efforts; but they are unable to entirely stop our aid work here."
+ NSB_border_conflict_canceled_attacker.1.a:0 "We will return and reopen peaceful negotiations."
+ NSB_border_conflict_canceled_defender.1.t:0 "Stalemate in [their_state.GetName]"
+ NSB_border_conflict_canceled_defender.1.desc:0 "The fighting in the [our_state.GetName]-[their_state.GetName] Area has ground to a halt as both sides have proven unable to dislodge the other. Little territory has been gained by either side. Scouts report that the [their_country.GetAdjective] soldiers on the other side are digging in on defensive terrain. It would appear that they intend to keep the territory they have, but probably won't push against our lines."
+ NSB_border_conflict_canceled_defender.1.a:0 "We will return."
+ NSB_border_incident_defender_warning.1.t:0 "[From.GetNameDefCap] threatens our border"
+ NSB_border_incident_defender_warning.1.desc:0 "Earlier yesterday, [their_country.GetAdjective] soldiers were spotted crossing the border from [attacker_state.GetName] into [defender_state.GetName]. During the night, more [their_country.GetAdjective] forces have poured into the area and set up defensive positions inside our territory. \n\nThis follows a series of minor skirmishes and border violations by forces under the command of [their_country.GetLeader] all along our shared border.\n\nThis time, however, it is clear that the [their_country.GetAdjective] forces are here to stay. We must send forces into the region as soon as possible to check their advance."
+ NSB_border_incident_defender_warning.1.a:0 "Mobilize all locally available forces!"
+ NSB_border_incident_defender_warning.1.b:0 "We don't want things to escalate."
+ NSB_border_incident_defender_warning.1.c:0 "Call for help from [OVERLORD.GetName]!"
+ NSB_border_incident_defender_warning_tt:0 "If [FROM.GetName] accepts:"
+ NSB_border_conflict_escalate_to_war.1.t:0 "[From.GetNameDefCap] Is Mobilizing for War"
+ NSB_border_conflict_escalate_to_war.1.desc:0 "Scouting reports indicate that [From.GetAdjective] forces are massing inside [their_state.GetName] for a major operation to push deeper into [our_state.GetName]. Given the amount of resources [From.GetLeader] is willing to expend on this adventure, it is clear that this is no longer a mere dispute over the exact location of a demarcation line.\n\nFull scale war is on the horizon."
+ NSB_border_conflict_escalate_to_war.1.a:0 "We must be ready to meet them!"
+
+#From Border Conflicts Everywhere by Blue
+
+ NSB_negative_opinion:0 "§RWill negatively affect relations with this country and their guaranteers§!\n"
+ NSB_buildings_damaged:0 "Damage done in the state.\n"
+ border_threat:0 "Border Adjustments"
+ border_conflict_started:0 "Disrespected Borders"
+ border_conflict_started_overlord:0 "Border Insults"
+ 
+ 
+ 
+ 
+ 
+ NSB_border_incident_deescalate.1.t:0 "[FROM.GetName] Proposes Demilitarization"
+ NSB_border_incident_deescalate.1.desc:0 "Although we expected [FROM.GetAdjective] forces to stand their ground, their government has decided to try and find a diplomatic solution to the rising tensions and deescalate the situation. They propose a demilitarization of their border to avoid further conflict. If we decline their offer and seriously want to stage an incident and possibly escalate it even further, some shrewd diplmatic maneuvering is going to have to take place."
+ NSB_border_incident_deescalate.1.a:0 "Their proposal is not enough."
+ NSB_border_incident_deescalate.1.b:0 "Not the outcome we expected, but it's good enough for now."
+ 
+ 
+ NSB_border_incident_deescalate.2.t:0 "[FROM.GetName] Has Accepted Our Proposal"
+ NSB_border_incident_deescalate.2.desc:0 ""
+ NSB_border_incident_deescalate.2.a:0 "A diplomatic success."
+ 
+ NSB_border_incident_deescalate.3.t:0 "[FROM.GetName] Has Declined Our Proposal"
+ NSB_border_incident_deescalate.3.desc:0 ""
+ NSB_border_incident_deescalate.3.a:0 "Those brutes!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

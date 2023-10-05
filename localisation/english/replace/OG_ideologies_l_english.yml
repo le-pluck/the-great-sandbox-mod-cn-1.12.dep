@@ -1,0 +1,38 @@
+﻿l_english:
+ 
+ ##################
+ ### IDEOLOGIES ###
+ ##################
+ 
+ 
+ anti_revisionism:0 "Totalism"  # Anti-Revisionism
+ anti_revisionism_desc:1 "Identifying as a form of government applying and developing Marxist-Leninist policies, Totalism emphasizes rapid industrialization and collectivization as well as the need for a strong, authoritative socialist state to purge any counter-revolutionary elements."
+
+ anarchist_communism:0 "Anarcho-Syndicalism"    #Anarchist Communism
+ anarchist_communism_desc:0 "An ideology embracing the idea of communism as a stateless society, Anarcho-Syndicalism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+ 
+ #falangism:0 "Falangism"
+ falangism_desc:0 "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and religious identity."
+ 
+
+ oligarchism:0 "Corporatism"
+ oligarchism_desc:0 "Corporatism is a political ideology which advocates the organization of society by corporate groups, such as agricultural, labour, military, business, scientific, or guild associations, on the basis of their common interests. As originally conceived, corporatism was meant to be an alternative to both free market economies and socialist economies."
+ 
+ centrism_democratic:0 "Centrism"
+ centrism_democratic_desc:1 "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
+
+ military_junta_subideology:0 "Stratocratism"
+ military_junta_subideology_desc:0 "Stratocracy is a form of government headed by military chiefs. The branches of government are administered by military forces, the government is legal under the laws of the jurisdiction at issue, and is usually carried out by military workers."
+ 
+ theocracy:0 "Theocratism"
+ theocracy_desc:0 "Theocracy is a form of government in which one or more deities are recognized as supreme ruling authorities, giving divine guidance to human intermediaries who manage the government's daily affairs."
+ 
+ ultranationalism:0 "Ultranationalism"
+ ultranationalism_desc:0 "Ultranationalism is an extreme form of nationalism in which a country asserts or maintains detrimental hegemony, supremacy, or other forms of control over other nations to pursue its specific interests."
+ 
+ internationalism_subideology:0 "Internationalism"
+ internationalism_subideology_desc:0 "As opposed to socialism in one country, internationalism emphasizes the need for a permanent revolution and the establishment of a dictatorship of the proliteriat based on working-class self-emancipation and mass democracy."
+ 
+ 
+ 
+ 

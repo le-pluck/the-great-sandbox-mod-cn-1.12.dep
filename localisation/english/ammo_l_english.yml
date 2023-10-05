@@ -1,0 +1,79 @@
+﻿l_english:
+ ammunition_value:0 "[GetAmmoFilling]"
+ ammonition_full:0 "§GFull§!"
+ ammonition_filling:0 "[?ammo_days_to_full|0G] §Gd§!"
+ ammonition_dwindles:0 "[?ammo_days_to_empty|0R] §Rd§!"
+ ammonition_empty:0 "§REmpty§!"
+ ammunition_topbar_tooltip:0 "§HAmmunition§!\n\nCurrent Ammunition: [GetAmmoHundreds]\n\nDaily Gain: [GetAmmoGainHundreds][GetAmmoProductionMilitaryFactoryModifier][GetAmmoProductionUnassignedModifier][GetAmmoGameRule][GetAmmoProductionEconomyModifier][GetAmmoProductionTechnologyModifier]\n\nTotal Ammunition Capacity: [GetMaxAmmoHundreds][GetAmmoStorageState][GetAmmoStorageMilitaryFactory]\n\nCurrent Daily Consumption: [GetAmmoNeedHundreds][GetAmmoRationing]\nMaximum Daily Consumption: [GetPotentialAmmoNeedHundreds]"
+ ammunition_topbar_tooltip_delayed:0 "§HAmmunition§! is produced and stored passively in §YMilitary Factories§!. Unassigned factories will produce thrice the amount of §YAmmunition§!. Units engaging in combat or left uncommanded will consume §YAmmunition§!.\n\n§RWhen you run out of §YAmmunition§! your army will receive attack and defense penalties up to a point where they are unable to fight!§!"
+ ammonition_hundreds:0 "[?ammo_h|H]"
+ ammonition_thousands:0 "[?ammunition_variable|H1]§HK§!"
+ ammonition_max_hundreds:0 "[?ammunition_max_h|H]"
+ ammonition_max_thousands:0 "[?ammunition_max|H1]§HK§!"
+ ammonition_gain_hundreds:0 "[?ammo_daily_h|H0]"
+ ammonition_gain_thousands:0 "[?ammunition_daily|H1]§HK§!"
+ ammonition_need_hundreds:0 "[?ammo_need_h|H0]"
+ ammonition_need_thousands:0 "[?daily_ammo_need|H1]§HK§!"
+ potential_need_hundreds:0 "[?potential_need_h|H0]"
+ potential_need_thousands:0 "[?potential_consumption_max|H1]§HK§!"
+
+ ammunition_effects:0 "Lack of Ammunition"
+ daily_ammunition_gain:0 "Daily Ammunition Gain"
+ daily_unassigned_ammunition_gain:0 "Additional Daily Ammunition Gain When Unassigned" #MODDED
+ ammunition_factor:0 "Ammunition Gain Factor"
+ ammunition_capacity_k:0 "Ammunition Capacity (K)"
+
+ #Not in use
+ ammunition_plant:0 "Ammunition Plant"
+ ammunition_plant_desc:0 "A Factory only dedicated to producing ammunition."
+ ammunition_silo:0 "Ammunition Storage"
+ ammunition_silo_desc:0 "A place to savely store ammunition in high quantities."
+ 
+
+ 
+ 
+ 
+ 
+ 
+ tot_economic_mobilisation_AmmoProductionEconomyModifier:0 "\n£pol_idea  Total Mobilization: §G+30%§!"
+ war_economy_AmmoProductionEconomyModifier:0 "\n£pol_idea  War Economy: §G+20%§!"
+ partial_economic_mobilisation_AmmoProductionEconomyModifier:0 "\n£pol_idea  Partial Mobilization: §G+10%§!"
+ low_economic_mobilisation_AmmoProductionEconomyModifier:0 "\n£pol_idea  Early Mobilization: §R-10%§!"
+ civilian_economy_AmmoProductionEconomyModifier:0 "\n£pol_idea  Civilian Economy: §R-30%§!"
+ isolation_AmmoProductionEconomyModifier:0 "\n£pol_idea  Isolation: §R-40%§!"
+ undisturbed_isolation_AmmoProductionEconomyModifier:0 "\n£pol_idea  Undisturbed Isolation: §R-50%§!"
+ 
+ ammunition_production_tech_3_AmmoProductionEconomyModifier:0 "\n£tech_mod  Ammunition Production III: §G+30%§!"
+ ammunition_production_tech_2_AmmoProductionEconomyModifier:0 "\n£tech_mod  Ammunition Production II: §G+20%§!"
+ ammunition_production_tech_1_AmmoProductionEconomyModifier:0 "\n£tech_mod  Ammunition Production I: §G+10%§!"
+ ammunition_production_tech_0_AmmoProductionEconomyModifier:0 ""
+ 
+ AmmoProductionMilitaryFactoryModifier:0 "\nMilitary Factories: [?total_factories_available_for_ammo_production_variable|.0+]"
+ 
+ AmmoProductionUnassignedModifier:0 "\nUnassigned Military Factories: [?extra_factories_available_for_ammo_production_variable|.0+]"  #Is stored as x200
+ 
+ 
+ 
+ AmmoStorageState:0 "\nOwned States: §Y[?ammunition_storage_from_states|.1]K§!"
+ AmmoStorageMilitaryFactory:0 "\nMilitary Factories: §Y[?ammunition_storage_from_factories|.1]K§!"
+ 
+ 
+ AmmoRationing_1:0 "\nAmmunition Rationing: §G-20%§!"
+ AmmoRationing_0:0 ""
+ 
+ 
+ 
+ 
+ AmmoGameRule_default:0 ""
+ AmmoGameRule_plus1:0 "\n£pol_idea  Game Rule: §G+10%§!"
+ AmmoGameRule_plus2:0 "\n£pol_idea  Game Rule: §G+20%§!"
+ AmmoGameRule_plus3:0 "\n£pol_idea  Game Rule: §G+30%§!"
+ AmmoGameRule_plus4:0 "\n£pol_idea  Game Rule: §G+40%§!"
+ AmmoGameRule_plus5:0 "\n£pol_idea  Game Rule: §G+50%§!"
+ AmmoGameRule_minus1:0 "\n£pol_idea  Game Rule: §R-10%§!"
+ AmmoGameRule_minus2:0 "\n£pol_idea  Game Rule: §R-20%§!"
+ AmmoGameRule_minus3:0 "\n£pol_idea  Game Rule: §R-30%§!"
+ AmmoGameRule_minus4:0 "\n£pol_idea  Game Rule: §R-40%§!"
+ AmmoGameRule_minus5:0 "\n£pol_idea  Game Rule: §R-50%§!"
+ 
+ 
