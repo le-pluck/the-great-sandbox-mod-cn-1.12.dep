@@ -1,4 +1,10 @@
-﻿l_simp_chinese:
+﻿# 
+# 写在前面：
+# 1. 在原 mod 中，部分国策描述为空，CN 版用 §Y无§! 代替显示到游戏。
+# 2. 部分描述为空的国策，译者作了补充，在补充行后面以 `# transsup` (TRANSlator's SUPplement) 标出。
+# 3. 部分描述不够合适的地方，译者直接做了修改/优化。因程度不便界定，未标出所有修改。
+#
+l_simp_chinese:
 
  focus_unlock_design_company_tt:0 "\n新的 §Y设计商§! 可用:"
 
@@ -19,7 +25,7 @@
  OG_logistics_effort:0 "重视后勤"
  OG_logistics_effort_desc:0 "§Y无§!"
 
- OG_maintenance_effort:0 "军用车辆抢修人员-pendding"
+ OG_maintenance_effort:0 "军用车辆抢修人员"
  OG_maintenance_effort_desc:0 "§Y无§!"
 
  OG_mechanization_effort:0 "重视机械化"
@@ -54,7 +60,7 @@
  
  OG_military_academy_focus:0 "军事学院奖学金"
  OG_military_academy_focus_desc:0 "§Y无§!"
- OG_military_academy_focus_tt:0 "解锁 §Y军事学院§! 中的 §G3 个额外训练槽位§!。通过培训，可以提高所有军事顾问的奖金。-pendding"
+ OG_military_academy_focus_tt:0 "解锁 §Y军事学院§! 中的 §G3 个额外训练槽位§!。 通过培训，可以提高所有军事顾问的加成。"
  
  OG_doctrine_effort_2:0 "重视军事学说 II"
  OG_doctrine_effort_2_desc:0 "战场不仅在世界大战期间发生了变化，而且在最近的冲突中也发生了变化。我们必须不断重新评估我们的理论，以反映这一点。"
@@ -68,7 +74,7 @@
  OG_doctrine_effort_3:0 "重视军事学说 III"
  OG_doctrine_effort_3_desc:0 "§Y无§!"
 
- OG_equipment_effort:0 "重视步兵装备-pendding"
+ OG_equipment_effort:0 "重视步兵装备"
  OG_equipment_effort_desc:0 "步兵可携带装备的极限不断被突破。我们将致力于为部队提供最好的工具。"
 
 
@@ -93,7 +99,7 @@
  OG_anti_air_focus_desc:0 "§Y无§!"
  
  OG_special_forces_focus:0 "特种部队"
- OG_special_forces_focus_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
+ OG_special_forces_focus_desc:0 "我们需要精锐部队。山地部队和伞兵应该是我们的优先选择。"
  
  OG_marines_focus:0 "两栖突击"
  OG_marines_focus_desc:0 "§Y无§!"
@@ -103,185 +109,186 @@
 
  OG_urban_combat_specialization_focus:0 "暴风突击队战术"
  OG_urban_combat_specialization_focus_desc:0 "冲啊，冲出战壕。暴风突击队，冲锋！"
- OG_urban_combat_specialization_focus_tt:0 "在§Y城市§!地形和进攻§Y要塞§!中，§Y摩托化§! 和 §Y机械化部队§! 将获得 §G+10% 攻击§!, §G防御§! and §G+5% 突破§!。"
+ OG_urban_combat_specialization_focus_tt:0 "在§Y城市§!地形和进攻§Y要塞§!中，§Y摩托化§! 和 §Y机械化部队§! 将获得 §G+10% 攻击§!, §G+10% 防御§!, §G+5% 突破§!。"
 
  OG_forest_combat_specialization_focus:0 "树栖战斗训练"
  OG_forest_combat_specialization_focus_desc:0 "§Y无§!"
- OG_forest_combat_specialization_focus_tt:0 "在§Y森林§!和§Y丛林§!地形中，§Y特种部队部队§! 将获得 §G+10% 攻击§§!, §G防御§! 和 §G+5% 速度§!。"
+ OG_forest_combat_specialization_focus_tt:0 "在§Y森林§!和§Y丛林§!地形中，§Y特种部队部队§! 将获得 §G+10% 攻击§!, §G+10% 防御§!, §G+5% 速度§!。"
  
  ## 上面两个中的 “部队”、“单位” 有待商榷  #pendding
  ## 上面两个中的行文空格有待商榷  #pendding
  
  ### Aviation ###
  
- OG_aviation_effort:0 "Aviation Effort"
- OG_aviation_effort_tt:0 "Not enough building slots for §YAir Base§!"
- OG_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
+ OG_aviation_effort:0 "重视空军"
+ OG_aviation_effort_bypass_tt:0 "bypass_tt 没有足够的建筑位可以用于建造§Y空军基地§!"
+ OG_aviation_effort_tt:0 "tt 没有足够的建筑位可以用于建造§Y空军基地§!"
+ OG_aviation_effort_desc:0 "空军技术是所有军事技术中发展最快的。任何一个现代化国家都应该掌握先进的航空技术。"
 
- OG_fighter_focus:0 "Fighter Focus"
- OG_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
+ OG_fighter_focus:0 "重视战斗机"
+ OG_fighter_focus_desc:0 "我们还没有看到世界大战中的最后一场狗斗。保持战斗机发展的领先地位将使我们在未来的战争中占据优势。"
 
- OG_bomber_focus:0 "Bomber Focus"
- OG_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
+ OG_bomber_focus:0 "重视轰炸机"
+ OG_bomber_focus_desc:0 "当未来的人们谈及当今战争的恐怖时，从天而降的火雨将会是最显著的特征。我们将竭尽全力确保我们的敌人讲述这些故事。"
 
- OG_aviation_effort_2:0 "Aviation Effort II"
- OG_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
- OG_CAS_effort:0 "Death From Above"   #CAS Effort
- OG_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
+ OG_aviation_effort_2:0 "重视空军 II"
+ OG_aviation_effort_2_desc:0 "要使我们的空军与其他军种很好地融合，就必须进一步推进航空事业的发展。"
+ OG_CAS_effort:0 "高空死神"   #CAS Effort
+ OG_CAS_effort_desc:0 "仅仅是地面车辆的支持对于现代军队来说是不够的，我们还需要强大的空中力量协助军队作战。"
 
- OG_escort_planes_focus:0 "Long Range Escorts"
- OG_escort_planes_focus_desc:0 "§Y无§!"
+ OG_escort_planes_focus:0 "远程护航"
+ OG_escort_planes_focus_desc:0 "我们的战术轰炸机和战略轰炸机需要拥有远程护航提供保护，才能安全抵达目标区域后返航。"  # transsup
  
- OG_interceptor_focus:0 "Home Interception Command Center"
+ OG_interceptor_focus:0 "本土拦截指挥中心"
  OG_interceptor_focus_desc:0 "§Y无§!"
  
- OG_aircraft_parts_focus:0 "Airplane Module Innovation"
+ OG_aircraft_parts_focus:0 "飞机模块创新"
  OG_aircraft_parts_focus_desc:0 "§Y无§!"
  
- OG_domestic_plane_designs:0 "Pool Aeronautical Knowledge"
+ OG_domestic_plane_designs:0 "航空知识库"
  OG_domestic_plane_designs_desc:0 "§Y无§!"
  
- OG_domestic_plane_production_focus:0 "Domestic Plane Program"
- OG_domestic_plane_production_focus_desc:0 "§Y无§!"
+ OG_domestic_plane_production_focus:0 "国产飞机项目"
+ OG_domestic_plane_production_focus_desc:0 "让我们的航空工业自主研发设计飞机型号，也许能在提高生产效率方面产生意想不到的额外作用。"  # transsup
  
- OG_flying_clubs_focus:0 "Sponsor Flying Clubs"
+ OG_flying_clubs_focus:0 "资助飞行俱乐部"
  OG_flying_clubs_focus_desc:0 "§Y无§!"
  
- OG_aviation_effort_3:0 "Aviation Effort III"
+ OG_aviation_effort_3:0 "重视空军 III"
  OG_aviation_effort_3_desc:0 "§Y无§!"
  
- OG_NAV_effort:0 "NAV Effort"   #NAV Effort
- OG_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
+ OG_NAV_effort:0 "重视舰载飞机"   #NAV Effort
+ OG_NAV_effort_desc:0 "正如新海战部分发生在水面之下，部分发生在水面之上的空中。"
  
  ### Navy ###
 
- OG_naval_effort:0 "Naval Effort"
- OG_naval_effort_tt:0 "Not enough building slots for §YNaval Dockyards§!"
- OG_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
+ OG_naval_effort:0 "重视海军"
+ OG_naval_effort_tt:0 "没有足够的建筑位可以用于建造§Y海军船坞§!"
+ OG_naval_effort_desc:0 "扩充海军应该是我们的首要任务。将所有可用资源分配给新船坞和轻型水面舰艇研究。"
 
- OG_flexible_navy_focus:0 "Flexible Naval Doctrine Effort"
- OG_flexible_navy_focus_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
+ OG_flexible_navy_focus:0 "重视机动舰队理论"
+ OG_flexible_navy_focus_desc:0 "根据潜艇技术的进步重塑海战，这将使我们更有效地打击敌方的护航舰队。而灵活的航母将时我们在大洋的任何位置获得优势。"
 
- OG_large_navy_focus:0 "Large Naval Doctrine Effort"
- OG_large_navy_focus_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
+ OG_large_navy_focus:0 "重视大舰队理论"
+ OG_large_navy_focus_desc:0 "调整我们的海军理论以适应大型舰艇，并确保我们护航舰队的安全，这会助益我们研发相关任务所需的舰船。"
 
- OG_submarine_effort:0 "Submarine Effort"
- OG_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
+ OG_submarine_effort:0 "重视潜艇"
+ OG_submarine_effort_desc:0 "潜艇战是自鱼雷艇发明以来最激动人心的海军发展。我们不仅要防范潜艇，还要利用潜艇打击敌方航运。"
 
- OG_cruiser_effort:0 "Cruiser Effort"
- OG_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
+ OG_cruiser_effort:0 "重视巡洋舰"
+ OG_cruiser_effort_desc:0 "在研发出更先进的战列舰之前，暂以排水量较小的巡洋舰替代之。"
 
- OG_destroyer_effort:0 "Destroyer Effort"
- OG_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
+ OG_destroyer_effort:0 "重视驱逐舰"
+ OG_destroyer_effort_desc:0 "研究潜艇的设计和战术时，我们也学会了如何应对这些战术。而驱逐舰将成为其中关键。"
 
- OG_capital_ships_effort:0 "Capital Ship Effort"
- OG_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
+ OG_capital_ships_effort:0 "重视主力舰"
+ OG_capital_ships_effort_desc:0 "拥有最多战列舰的国家才能统领海洋。战列舰与航空母舰分别代表了新旧两种海军的优势。"
 
- OG_naval_effort_2:0 "Naval Effort II"
+ OG_naval_effort_2:0 "重视海军 II"
  OG_naval_effort_2_desc:0 "§Y无§!"
  
- OG_naval_base_effort:0 "Shipyard Building Effort"
- OG_naval_base_effort_tt:0 "All §YNaval Bases§! in fully controlled core states:\nAdd §G2§! §YNaval Bases§!."
+ OG_naval_base_effort:0 "重视海军基地建设"
+ OG_naval_base_effort_tt:0 "在完全控制的核心地区的所有§Y海军基地§!:\n添加 §G2§! §Y海军基地§!。（即是升 2 级）"
  
- OG_coastal_batteries_effort:0 "Construct Coastal Batteries"
- OG_coastal_batteries_effort_tt:0 "All §YNaval Bases§! in fully controlled core states:\nAdd §G3§! §YCoastal Forts§!."
+ OG_coastal_batteries_effort:0 "建造海岸要塞"
+ OG_coastal_batteries_effort_tt:0 "在完全控制的核心地区的所有§Y海军基地§!:\n添加 §G3§! §Y海岸要塞§!。"
  
- OG_naval_refitting_effort:0 "Naval Refitting Yards"
+ OG_naval_refitting_effort:0 "舰艇改装厂"
  OG_naval_refitting_effort_desc:0 "§Y无§!"
  
- OG_naval_mine_warfare_effort:0 "Mine Warfare"
- OG_naval_mine_warfare_effort_desc:0 "§Y无§!"
+ OG_naval_mine_warfare_effort:0 "水雷战"
+ OG_naval_mine_warfare_effort_desc:0 "使用舰船来保卫我们的整条海岸线经济上是不合算的。通过在战略要地布设水雷，我们可以阻扰乃至击伤试图接近我国海岸的敌方舰队。"  # transsup
  
- OG_naval_doctrine_effort:0 "Naval Doctrine Effort II"
- OG_naval_doctrine_effort_desc:0 "§Y无§!"
+ OG_naval_doctrine_effort:0 "重视海军学说 II"
+ OG_naval_doctrine_effort_desc:0 "船只研发的最新进展使我们有了新的战略和战术选择，对这些新的理论我们需要有新的计划和实验来验证。"  # transsup
  
- OG_convoy_escort_focus:0 "Armored Convoys"
- OG_convoy_escort_focus_desc:0 "§Y无§!"
+ OG_convoy_escort_focus:0 "装甲运输船"
+ OG_convoy_escort_focus_desc:0 "通过加强我们运输船队的装甲，能有效削弱敌方潜艇对航线的危害。"  # transsup
  
- OG_wolfpacks_focus:0 "Modular Construction"
- OG_wolfpacks_focus_desc:0 "§Y无§!"
+ OG_wolfpacks_focus:0 "模块化建造"
+ OG_wolfpacks_focus_desc:0 "采用模块化的潜艇建造方式，将利于我们控制生产成本，提高潜艇产量。"  # transsup
 
- OG_naval_doctrine_effort_2:0 "Naval Doctrine Effort III"
- OG_naval_doctrine_effort_2_desc:0 "§Y无§!"
+ OG_naval_doctrine_effort_2:0 "重视海军学说 III"
+ OG_naval_doctrine_effort_2_desc:0 "先进的海军学说决定了我们舰队进行战斗时有效的指导理念。"  # transsup
  
- OG_carrier_effort:0 "Carrier Effort"
- OG_carrier_effort_desc:0 "§Y无§!"
+ OG_carrier_effort:0 "重视航母"
+ OG_carrier_effort_desc:0 "现代化战斗舰队的主力将会是航空母舰而不是战列舰。早在1921年，美国人就证明了制空权对海战的重要性！"
  
- OG_combined_arms_warfare_focus:0 "Future of Warfare"
+ OG_combined_arms_warfare_focus:0 "战争的未来"
  OG_combined_arms_warfare_focus_desc:0 "§Y无§!"
  
  ### Industry ###
 
- OG_company_expansion_projects_focus:0 "Company Expansion Projects"
+ OG_company_expansion_projects_focus:0 "公司扩张项目"
  OG_company_expansion_projects_focus_desc:0 "§Y无§!"
- OG_company_expansion_projects_focus_tt:0 "Enables enhancements of the bonuses for all designer companies."
+ OG_company_expansion_projects_focus_tt:0 "允许增强所有设计商的加成。"
 
- OG_flexible_company_contracts_focus:0 "Flexible Contracts"
+ OG_flexible_company_contracts_focus:0 "灵活的合同"
  OG_flexible_company_contracts_focus_desc:0 "§Y无§!"
 
- OG_industrial_effort:0 "Industrial Effort"
- OG_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
+ OG_industrial_effort:0 "重视工业"
+ OG_industrial_effort_desc:0 "将我们政策的效力集中用在民用工业建设上以获得跳跃式发展。"
 
- OG_industrial_effort_2:0 "Industrial Effort II"
- OG_industrial_effort_2_desc:0 "With iron will and a relentless work ethic, we can mobilize the people in another great industrial effort."
+ OG_industrial_effort_2:0 "重视工业 II"
+ OG_industrial_effort_2_desc:0 "凭借钢铁般的意志和不懈的工作热情，我们必能带领人民再一次完成巨大的工业进步。"
 
- OG_construction_effort:0 "Construction Effort"
- OG_construction_effort_tt:0 "Not enough building slots for §YCivilian Factories§!"
- OG_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
+ OG_construction_effort:0 "重视建筑"
+ OG_construction_effort_tt:0 "没有足够的建筑位可以用于建造§Y民用工厂§!"
+ OG_construction_effort_desc:0 "即使在战争笼罩全球的情况下，也不能低估民用工业的能力。"
 
- OG_production_effort:0 "Armament Effort"
- OG_production_effort_tt:0 "Not enough building slots for §YMilitary Factory§!"
- OG_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
+ OG_production_effort:0 "重视军备"
+ OG_production_effort_tt:0 "没有足够的建筑位可以用于建造§Y军用工厂§!"
+ OG_production_effort_desc:0 "能造拖拉机，就能造坦克！我们决不能让我们的军事生产能力落后。"
 
- OG_construction_effort_2:0 "Construction Effort II"
- OG_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further construction efforts."
+ OG_construction_effort_2:0 "重视建筑 II"
+ OG_construction_effort_2_desc:0 "继续扩建我们的工厂将使我们能够加快贸易和进一步建设所需的货物生产。"
 
- OG_production_effort_2:0 "Armament Effort II"
- OG_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
+ OG_production_effort_2:0 "重视军备 II"
+ OG_production_effort_2_desc:0 "试图改造民用工厂来生产军事装备是低效的。我们现在应该集中精力准备军事生产。"
  
- OG_production_effort_3:0 "Armament Effort III"
- OG_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
+ OG_production_effort_3:0 "重视军备 III"
+ OG_production_effort_3_desc:0 "为了满足对新装备的需求，我们必须继续努力扩建军工厂。"
 
- OG_infrastructure_effort:0 "Infrastructure Effort"
- OG_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
+ OG_infrastructure_effort:0 "重视基建"
+ OG_infrastructure_effort_desc:0 "没有合格基础设施建设的国家无法推进先进的项目或建设。"
  OG_infrastructure_effort_tt:0 "Not enough building slots for §YInfrastructure§!"
 
- OG_infrastructure_effort_2:0 "Infrastructure Effort II"
- OG_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
+ OG_infrastructure_effort_2:0 "重视基建 II"
+ OG_infrastructure_effort_2_desc:0 "进一步扩展我们的基础设施，将使高科技秘密项目所需的运输和通信成为可能。"
 
- OG_construction_effort_3:0 "Construction Effort III"
- OG_construction_effort_3_desc:0 "Expansion of our infrastructure network has significantly improved our capacity for construction."
+ OG_construction_effort_3:0 "重视建筑 III"
+ OG_construction_effort_3_desc:0 "基础设施网络的扩展大大提高了我们的施工能力。"
 
- OG_nuclear_effort:0 "Nuclear Wonder Weapons"
- OG_nuclear_effort_desc:0 "Standing on the edge of a world-changing discovery, we cannot let others light the fire that may one day consume the Earth."
+ OG_nuclear_effort:0 "奇迹武器"
+ OG_nuclear_effort_desc:0 "站在改变世界的发现的边缘，我们不能让他人点燃有朝一日可能吞噬地球的火焰。"
 
- OG_extra_tech_slot:0 "National Research Institute"
- OG_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
+ OG_extra_tech_slot:0 "国家研究院"
+ OG_extra_tech_slot_desc:0 "我们的工业扩张和其他最新进展可能使我们能够同时进行更多的研发工作。"
 
- OG_extra_tech_slot_2:0 "Classified Discoveries Department"
- OG_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
+ OG_extra_tech_slot_2:0 "分类科研部门"
+ OG_extra_tech_slot_2_desc:0 "我们国家的快速工业化为研发工作带来了新的机遇，我们应该抓住这些机遇。"
 
- OG_technology_sharing_focus:0 "Technology Sharing"
- OG_technology_sharing_focus_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+ OG_technology_sharing_focus:0 "科技共享"
+ OG_technology_sharing_focus_desc:0 "通过与盟友共享研发的技术，我们的整个阵营可以在战时更有效地进行科研。"
 
- OG_bunker_construction_effort:0 "Fortify Strategic Locations"
+ OG_bunker_construction_effort:0 "巩固战略要地"
  OG_bunker_construction_effort_desc:0 "§Y无§!"
- OG_bunker_construction_effort_tt:0 "All §YVictory Points§! in fully controlled core states:\nAdd §G2§! §YLand Forts§!."
+ OG_bunker_construction_effort_tt:0 "在完全控制的核心地区的所有§Y胜利点§!:\n添加 §G2§! §Y陆上要塞§!。"
  
- OG_war_industrial_coordination_focus:0 "War Industrial Coordination"
+ OG_war_industrial_coordination_focus:0 "战时工业协调"
  OG_war_industrial_coordination_focus_desc:0 "§Y无§!"
   
- OG_resource_excavation_effort:0 "Resource Excavation Prospecting"
+ OG_resource_excavation_effort:0 "资源挖掘勘探"
  OG_resource_excavation_effort_desc:0 "§Y无§!"
 
- OG_refinery_effort:0 "Synthetic Experiments"
+ OG_refinery_effort:0 "合成实验"
  OG_refinery_effort_desc:0 "§Y无§!"
  
- OG_rationing_focus:0 "Rationing & Bomb Shelters"
+ OG_rationing_focus:0 "配给制与防空洞"
  OG_rationing_focus_desc:0 "§Y无§!"
  
- OG_public_sector_expansion_focus:0 "Public Sector Expansion"  #/Private Sector
- OG_public_sector_expansion_focus_tt:0 "All §Ycontrolled core states§!:\nAdd §G2§! Building Slots."
+ OG_public_sector_expansion_focus:0 "公共部门扩展"  #/Private Sector
+ OG_public_sector_expansion_focus_tt:0 "在所有§Y控制的核心地区§!:\n添加 §G2§! 建筑位。"
  OG_public_sector_expansion_focus_desc:0 "§Y无§!"
  
  OG_railway_effort:0 "Railway Network Expansion"
