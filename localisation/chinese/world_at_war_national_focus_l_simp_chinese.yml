@@ -291,17 +291,17 @@ l_simp_chinese:
  OG_public_sector_expansion_focus_tt:0 "在所有§Y控制的核心地区§!:\n添加 §G2§! 建筑位。"
  OG_public_sector_expansion_focus_desc:0 "§Y无§!"
  
- OG_railway_effort:0 "Railway Network Expansion"
- OG_railway_effort_desc:0 "Make the trains run on time!"
+ OG_railway_effort:0 "铁路网扩建"
+ OG_railway_effort_desc:0 "让火车准时运行！"
  
- OG_electronics_focus:0 "Computing Advancements"    #secret_weapons
- OG_electronics_focus_desc:0 "It is tempting to expend all extra resources into developing tanks and planes, but the secret to winning wars lies in whole new fields of science; electronics, rocketry and nuclear research."
+ OG_electronics_focus:0 "计算技术的进步"    #secret_weapons
+ OG_electronics_focus_desc:0 "将所有额外资源用于研发坦克和飞机是很诱人的，但赢得战争的秘诀在于全新的科学领域：电子、火箭和核研究。"
  
- OG_generic_radar_focus:0 "Radiolocation Systems"
- OG_generic_radar_focus_desc:0 "The ability to detect enemy bombers will be crucial to the war effort. We should spare no resources in further developing Radar technology and constructing a network of detection stations along the coasts."
+ OG_generic_radar_focus:0 "无线电定位系统"
+ OG_generic_radar_focus_desc:0 "探测敌方轰炸机的能力对战争至关重要。我们应不遗余力地进一步发展雷达技术，并在沿海地区建设探测站网络。"
  
- OG_rocket_effort:0 "Rocketry Science"
- OG_rocket_effort_desc:0 "Rocket and jet engines allow for unprecedented speeds for unmanned and manned vessels alike. Pioneering these technologies will allow us to take the enemy by surprise."
+ OG_rocket_effort:0 "火箭科学"
+ OG_rocket_effort_desc:0 "火箭和喷气发动机使无人驾驶和有人驾驶的船只都能达到前所未有的速度。开拓这些技术将使我们能够出其不意地打击敌人。"
  
  ### Fascism ###
  
@@ -320,38 +320,38 @@ l_simp_chinese:
  OG_military_youth_focus:0 "全国青年组织"
  OG_military_youth_focus_desc:0 "对我国青年进行纪律教育和政治教育的组织将及早培养他们的忠诚和自我牺牲精神。"
 
- OG_militarism_focus:0 "[ROOT.GetAdjective] Militarism"
- OG_militarism_focus_desc:0 "Those who view the military as a necessary evil are doomed to hesitate in the face of war. We will ingrain militarism into our culture to become a people of soldiers."
+ OG_militarism_focus:0 "[ROOT.GetAdjective]军国主义"  # TODO: 等翻译完国名之后来检查这里是否如预期般工作
+ OG_militarism_focus_desc:0 "那些将军队视为必要之恶的人注定会在战争面前犹豫不决。我们将把军国主义根植于我们的文化之中，成为一个军人的民族。"
 
- OG_eugenics_propaganda_focus:0 "Triumph of Will"   #Eugenics Propaganda
+ OG_eugenics_propaganda_focus:0 "意志的胜利"   #Eugenics Propaganda
  OG_eugenics_propaganda_focus_desc:0 "§Y无§!"
 
  OG_paramilitarism_focus:0 "准军事组织"
  OG_paramilitarism_focus_desc:0 "军事纪律在军事以外的地方也能有许多应用。随着为了补充我国武装部队而发展准军事化部队，更多的人民能够得到军事训练。"
 
- OG_national_labour_front_focus:0 "National Labour Front"
+ OG_national_labour_front_focus:0 "全国劳工阵线"
  OG_national_labour_front_focus_desc:0 "§Y无§!"
 
- OG_fascist_new_world_order_focus:0 "New World Order"    #Total War #Lebensraum
+ OG_fascist_new_world_order_focus:0 "新世界秩序"    #Total War #Lebensraum
  OG_fascist_new_world_order_focus_desc:0 "§Y无§!"
  
- OG_fascist_new_world_order_focus_tt_1:0 "Random §Ycontrolled state§!:\nAdd core of §Y[ROOT.GetName]§!."
- OG_fascist_new_world_order_focus_tt_2:0 "\nRandom §Ycontrolled state§!:"
+ OG_fascist_new_world_order_focus_tt_1:0 "在随机的§Y控制的地区§!:\n为 §Y[ROOT.GetName]§! 添加核心。"
+ OG_fascist_new_world_order_focus_tt_2:0 "\n在随机的§Y控制的地区§!:"  # TODO: 奇怪，有待检查
  
  OG_ideological_fanaticism_focus:0 "意识形态狂热主义"
  OG_ideological_fanaticism_focus_desc:0 "为我们在政治上的价值观和目标而牺牲比为任何一种古老的信仰而牺牲都要来的值得。所有信仰我们的理念的人都应该准备好随时面对死亡，而对那些在信念上犹豫不定的人来说——你们最好现在就准备面对死亡。"
  
  ### Communism ###
  
- OG_internationalism_focus:0 "Internationalism"
- OG_internationalism_focus_desc:0 "Ideology knows no borders. Another nation may call itself sovereign, but our convictions are above such claims."
+ OG_internationalism_focus:0 "国际主义"
+ OG_internationalism_focus_desc:0 "意识形态不分国界。其他国家可以自称为主权国家，但我们的信念高于这种说法。"
  
- OG_class_struggle_focus:0 "Class Struggle"
+ OG_class_struggle_focus:0 "阶级斗争"
  OG_class_struggle_focus_desc:0 "§Y无§!"
  
- OG_collectivisation_focus:0 "Collectivisation"
+ OG_collectivisation_focus:0 "集体化"
  OG_collectivisation_focus_desc:0 "§Y无§!"
- OG_collectivisation_focus_tt:0 "All §Ycontrolled core states§!:\nAdd §G1§! Building Slot."
+ OG_collectivisation_focus_tt:0 "在所有控制的核心地区:\n添加 §G1§! 建筑位。"
  
  OG_planned_economy_focus:0 "Planned Economy"
  OG_planned_economy_focus_desc:0 "§Y无§!"
@@ -359,22 +359,22 @@ l_simp_chinese:
  OG_socialist_indoctrination_focus:0 "意识形态灌输"
  OG_socialist_indoctrination_focus_desc:0 "既然我们的意识形态是基于真理的，那么我们也可以将它当做真理来进行教育。媒体和教育系统必须要反映这一点。"
  
- OG_cult_of_personality_focus:0 "Cult of Personality"
+ OG_cult_of_personality_focus:0 "个人崇拜"
  OG_cult_of_personality_focus_desc:0 "§Y无§!"
  
- OG_gunboat_diplomacy_focus:0 "Gunboat Diplomacy"
+ OG_gunboat_diplomacy_focus:0 "炮舰外交"
  OG_gunboat_diplomacy_focus_desc:0 "§Y无§!"
- OG_gunboat_diplomacy_focus_tt:0 "Enables claiming border states from our neighbours."
+ OG_gunboat_diplomacy_focus_tt:0 "可以向我们的邻国索要边境地区。"
 
  OG_political_commissars_focus:0 "政治委员"
  OG_political_commissars_focus_desc:0 "为了保证军队能够深刻贯彻落实我们的政策，我们将会在部队体系中加入政治军官的任命。"
 
- OG_world_revolution_focus:0 "Spread the World Revolution"
+ OG_world_revolution_focus:0 "传播世界革命"
  OG_world_revolution_focus_desc:0 "§Y无§!"
- OG_world_revolution_focus_tt:0 "All neighbouring §Ynon-ally§! and §Ynon-communist§! countries:"
+ OG_world_revolution_focus_tt:0 "所有相邻的 §Y非盟友§! 并且 §Y非共产主义§! 国家:"
  
- OG_communist_partisan_focus:0 "Resistance Movement"
- OG_communist_partisan_focus_desc:0 "Viva la resistance!"
+ OG_communist_partisan_focus:0 "抵抗运动"
+ OG_communist_partisan_focus_desc:0 "抵抗运动万岁！"
  
  ### Neutrality ###
  
