@@ -1,11 +1,11 @@
 | [English](https://github.com/le-pluck/the-greate-sandbox-mod-cn/blob/master/README.en.md) | [简体中文](https://github.com/le-pluck/the-greate-sandbox-mod-cn/blob/master/README.md) |
 
-# The Greate Sandbox Mod 汉化
-这是对钢铁雄心IV mod "The Great Sandbox Mod" 进行的简体中文本地化工作。
+# golden-wind
+This is a Simplified Chinese localisation of the Heart of Iron IV mod "The Great Sandbox Mod".
 
-## 快速开始
+## Getting Started
 
-## 许可证
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
