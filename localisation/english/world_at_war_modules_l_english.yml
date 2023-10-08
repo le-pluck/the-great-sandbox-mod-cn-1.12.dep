@@ -1,0 +1,33 @@
+﻿l_english:
+
+ 
+ 
+ carrier_ship_engine_nuclear_1:0 "Nuclear Carrier Engine"
+ carrier_ship_engine_nuclear_1_desc:0 "As seen in Buck Danny's comic 'The Mystery of the Ghost Planes'."
+ 
+ heavy_ship_engine_nuclear_1:0 "Nuclear Battleship Engine"
+ heavy_ship_engine_nuclear_1_desc:0 "There is a reason why you should put your nuclear reactor inside a battleship instead of firing it at a giant bird as big as the said ship."
+ 
+ sub_ship_engine_nuclear_1:0 "Nuclear Submarine Engine"
+ sub_ship_engine_nuclear_1_desc:0 "Works perfectly, as seen in the movie 'K-19'."
+ 
+ 
+ 
+ ship_helicopter_pad:0 "Helicopter Pad"
+ ship_helicopter_pad_desc:0 ""
+ 
+ 
+ ship_airplane_launcher_3:0 "Advanced Floatplane Catapult"
+ ship_airplane_launcher_3_desc:0 ""
+ 
+ 
+ ship_sub_snorkel_3:0 "Advanced Submarine Snorkel"
+ ship_sub_snorkel_3_desc:0 ""
+ 
+ ship_sonar_3:0 "Variable Depth Sonar"
+ ship_sonar_3_desc:0 ""
+ 
+ 
+ 
+ 
+ 

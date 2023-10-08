@@ -1,0 +1,242 @@
+﻿l_english:
+
+ government:1 "Laws & Policies" #Vanilla: Laws & Government
+
+ government_new:0 "Government"  # & Ministries? # & Cabinet?
+ economy_advisor:0 "Economy Advisor"
+ intelligence_advisor:0 "Intelligence Advisor"
+ ideology_advisor:0 "Ideology Advisor"
+
+ theorist:0 "Research Theorist"
+
+ army_military_staff:0 "Army Military Staff"
+ army_theorist:0 "Army Theorist"
+ army_high_command:0 "Army High Command"
+
+ air_military_staff:0 "Airforce Military Staff"
+ air_theorist:0 "Airforce Theorist"
+ air_high_command:0 "Airforce High Command"
+
+ navy_military_staff:0 "Navy Military Staff"
+ navy_theorist:0 "Navy Theorist"
+ navy_high_command:0 "Navy High Command"
+ 
+ 
+#####################################################
+
+ #legislation_laws:0 "Legal System"
+ #legislation_hybrid:0 "Hybrid Law"
+ #legislation_civil:0 "Civil Law"
+ #legislation_common:0 "Common Law"
+ #legislation_customary:0 "Customary Law"
+ #legislation_religious:0 "Religious Law"
+
+ foreign_policy_laws:0 "Foreign Policy"
+ foreign_policy_relations:0 "Trade Relations"
+ foreign_policy_deterrence:0 "Deterrence"
+ foreign_policy_appeasement:0 "Appeasement"
+ foreign_policy_ideological_struggle:0 "Ideological Struggle"
+ foreign_policy_brinkmanship:0 "Brinkmanship"
+ foreign_policy_global_order:0 "Global Order"
+ foreign_policy_subject_guidance:0 "Subject Guidance"
+ foreign_policy_subject_guidance_tt:0 "Every §YSubject Country§!:"
+ 
+ laws_cultural:0 "Cultural Policy"
+ laws_cultural_norms:0 "Cultural Norms"
+ laws_cultural_hierarchy:0 "Stratification Hierarchy"
+ laws_cultural_ingenuity:0 "Radical Ingenuity"
+ laws_cultural_diversity:0 "Melting Pot"
+ laws_cultural_work_ethic:0 "Virtue of Diligence"
+ laws_cultural_surveillance:0 "Surveillance Society"
+ laws_cultural_patriarchy:0 "Patriarchy"
+ laws_cultural_religious_identity:0 "Religious Identity" 
+
+ laws_social:0 "Social Policy"
+ social_policy_law_7:0 "Nonexistent Social Policy"
+ social_policy_law_7_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_6:0 "Outdated Social Policy"
+ social_policy_law_6_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_5:0 "Basic Social Policy"
+ social_policy_law_5_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_4:0 "Improved Social Policy"
+ social_policy_law_4_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_3:0 "Advanced Social Policy"
+ social_policy_law_3_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_2:0 "Modern Social Policy"
+ social_policy_law_2_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_1:0 "Lavish Social Policy"
+ social_policy_law_1_desc:0 "Social policy is a plan or action of government or institutional agencies which aim to improve or reform society. It consists of guidelines, principles, legislation and associated activities that affect the living conditions conducive to human welfare, such as a person's quality of life. It can described as public practice in areas such as health care, human services, criminal justice, inequality, education, and labor."
+ social_policy_law_remove_on_war:0 "§RThis social policy will be removed if at war.§!"
+
+
+
+ undisturbed_isolation_desc:0 ""
+
+ tot_economic_mobilisation_desc:0 "I ask you: Do you want the total war?! Do you want it, if necessary, more total and radical than anything that we can yet today even conceive?!"
+
+
+ 
+ 
+ 
+ undisturbed_isolation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-50.00%§!"
+ isolation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-40.00%§!"
+ civilian_economy_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-30.00%§!"
+ low_economic_mobilisation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §R-10.00%§!"
+ partial_economic_mobilisation_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+10.00%§!"
+ war_economy_ammo_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+20.00%§!"
+ tot_economic_mobilisation_gain_tt:0 "£ammo_production_texticon  §YMilitary Factory§! Ammunition Output: §G+30.00%§!"
+
+
+
+
+
+
+
+
+###################################
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OG_logistics_idea:0 "Supply Depots"
+ 
+ OG_maintenance_effort_idea:0 "Military Vehicle Recovery Crews"
+ 
+ OG_armored_production_idea:0 "Armored Production Lines"
+ 
+ OG_license_production:0 "License Production"
+ 
+ OG_military_planning:0 "General Staff"
+ 
+ OG_military_academy:0 "Military Academy Scholarships"
+ 
+ OG_female_military_volunteer_corps:0 "Women's Volunteer Corps"
+ 
+ OG_homeguard:0 "Homeguard"
+ 
+ OG_special_forces:0 "Special Forces"
+ 
+ OG_domestic_plane_designs_idea:0 "Aeronautical Knowledge Pool"
+ 
+ OG_domestic_plane_production:0 "Domestic Plane Program"
+ 
+ OG_flying_clubs:0 "Flying Clubs"
+ 
+ OG_interceptor_doctrine:0 "Home Interception Command Center"
+ 
+ OG_long_range_escorts:0 "Longe Range Escorts"
+ 
+ OG_naval_refitting_idea:0 "Naval Refitting Yards"
+ 
+ OG_mine_warfare:0 "Mine Warfare"
+ 
+ OG_modular_construction:0 "Modular Construction"
+ 
+ OG_armored_convoys:0 "Armored Convoys"
+ 
+ OG_combined_arms_warfare_idea:0 "Combined Arms Warfare"
+ 
+ war_industrial_coordination_idea:0 "War Industrial Coordination Board"
+ 
+ resource_metal_excavation_idea:0 "Resource Prospecting"
+ 
+ resource_oil_excavation_idea:0 "Oil Refinery Experiments"
+ 
+ OG_rationing_idea:0 "Rationing"
+ 
+ OG_collectivist_ethos_idea:0 "Collectivist Ethos"
+ 
+ OG_liberty_ethos_idea:0 "Liberty Ethos"
+ 
+ OG_military_youth_idea:0 "National Youth Organization"
+ 
+ OG_paramilitarism_idea:0 "Paramilitary Integration"
+ 
+ OG_militarism_idea:0 "Militarism"
+ 
+ OG_indoctrination_idea:0 "Secret Police"
+ 
+ OG_neutrality_trading_idea:0 "Open Trade Agreements"
+ 
+ OG_shelter_refugees_idea:0 "Asylum Haven" #Refugees
+ 
+ OG_king_and_country_idea:0 "Patriotism"
+ 
+ OG_political_commissars_idea:0 "Political Commissars"
+ 
+ OG_volunteer_corps_idea:0 "Volunteer Corps"
+ 
+ OG_lend_lease_idea:0 "Lend Lease Program"
+ 
+ OG_guarantees_idea:0 "Diplomatic Policing"
+ 
+ OG_realpolitik_idea:0 "Realpolitik"
+ 
+ OG_communist_partisan_focus:0 "Partisan Resistance Movement"
+ 
+ OG_united_high_command_idea:0 "United Allied High Command"
+ 
+ OG_never_surrender_idea:0 "Bastion of Democracy"
+ OG_never_surrender_idea_desc:0 "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender!"
+ 
+ OG_new_world_order_idea:0 "Total War"
+ 
+ OG_cavalry_modernization_idea:0 "Cavalry Modernization"
+ 
+ OG_five_year_plan_idea:0 "Five Year Plan"
+ 
+ OG_national_labour_front_idea:0 "National Labour Front"
+ 
+ OG_railway_construction_idea:0 "State Railways"
+ 
+ OG_class_struggle_idea:0 "Class Struggle"
+ 
+ OG_jurisdiction_idea:0 "Modern Jurisdiction"
+ 
+ OG_international_recognition_idea:0 "International Recognition"
+ 
+ OG_lebensborn_idea:0 "Blood and Soil"
+ 
+ OG_nationalism_drift_idea:0 "Nationalism"
+ OG_nationalism_desc:0 "Our people's hearts burn with nationalistic pride and they will fight hard to protect our homeland"
+
+ OG_internationalism_drift_idea:0 "Internationalism"
+ OG_internationalism_desc:0 "We strongly believe that ideology span across national borders and do not feel limited in crossing those borders ourselves."
+
+ OG_neutrality_drift_idea:0 "Traditionalism"
+ 
+ OG_democratic_drift_idea:0 "Liberalism"
+ 
+ OG_wartime_economics_lobbying_idea:0 "Wartime Economics Lobbying"
+ 
+ OG_why_we_fight_idea:0 "Why We Fight"
+ 
+ OG_ideological_fanaticism_idea:0 "Ideological Fanaticism"
+ 
+ OG_empire_idea:0 "National Pride"  #Triumph of Will?
+ 
+ 
+ OG_military_reorganization_negative_idea:0 "Military Reorganization"
+ OG_military_reorganization_negative_idea_removal_tt:0 "All §YLine Units§! design cost: §G-25%§!\nThis National Spirit will be removed upon completion of the focus '§Y$OG_army_reorganization_focus$§!'"
+ 
+ OG_military_reorganization_positive_idea:0 "Reorganized Military"
+ 
+ OG_flexible_contracts_idea:0 "Flexible Contracts"
+ 
+ OG_intelligence_idea:0 "Central Intelligence"
+ 
+ OG_subjects_guidance_idea:0 "Guided Subject"
+ 
+ OG_reprisal_bombers_idea:0 "Reprisal Bombers"
+ 
+ 

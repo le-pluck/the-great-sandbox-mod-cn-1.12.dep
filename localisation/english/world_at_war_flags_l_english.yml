@@ -1,0 +1,41 @@
+﻿l_english:
+
+ has_chosen_debuffs_flag:0 " Has chosen §Y2§! §Rpenalties§!"
+ has_chosen_buffs_flag:0 " Has chosen §Y2§! §Gbonuses§!"
+ coring_decision_in_progress_flag:0 " A §YState Coring Decision§! is in progress."
+ 
+ OG_state_claiming_in_progress_flag:0 " Already claiming a border state"
+ 
+ OG_nuclear_sanitation_work_in_progress_flag:0 "Nuclear sanitation work in progress"
+ 
+ OG_state_just_got_nuked_flag:0 "State just got nuked!"
+ 
+ OG_expand_company_decision_ongoing_flag:0 "Company expansion project in progress"
+ 
+ OG_state_recently_claimed_flag:0 "State claimed for longer than 90 days"
+ 
+ OG_recent_border_conflict_flag:0 "Recent border conflict has happened in state"
+ 
+ OG_gunboat_diplomacy_state_flag:0 ""
+ 
+ 
+ 
+ 
+ formable_france_flag:0 "France has been formed"
+ formable_germany_flag:0 "Germany has been formed"
+ formable_britain_flag:0 "Britain has been formed"
+ formable_russia_flag:0 "Russia has been formed"
+ formable_china_flag:0 "China has been formed"
+ formable_japan_flag:0 "Japan has been formed"
+ formable_norden_flag:0 "Norden has been formed"
+ formable_italy_flag:0 "Italy has been formed"
+ formable_usa_flag:0 "United States of America has been formed"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,442 @@
+﻿l_english:
+
+ focus_unlock_design_company_tt:0 "\nNew §YDesign Company§! available:"
+
+
+ ### Army ###
+
+ OG_army_effort:0 "Army Effort"
+ OG_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
+
+
+ OG_motorization_effort:0 "Motorization Effort"
+ OG_motorization_effort_desc:0 "Mobility and protection are crucial to get infantry into and out of the field safely. Focusing on these developments will allow us to take action quickly."
+
+ OG_cavalry_effort:0 "Repurpose the Cavalry Corps"
+ OG_cavalry_effort_desc:0 "With the modernization of our armed forces and the introduction of trucks, we need to repurpose our old cavalry corps to other duties."
+ OG_cavalry_effort_tt:0 "Creates a free §YDivision Template§! with 5 §YCavalry Battalions§!."
+
+ OG_logistics_effort:0 "Logistics Effort"
+ OG_logistics_effort_desc:0 ""
+
+ OG_maintenance_effort:0 "Military Vehicle Recovery Crews"
+ OG_maintenance_effort_desc:0 ""
+
+ OG_mechanization_effort:0 "Mechanization Effort"
+ OG_mechanization_effort_desc:0 "Rethinking the possibilities of motorized infantry, we can push the limits of what vehicles can be constructed today."
+
+ OG_armor_effort:0 "Armor Effort"
+ OG_armor_effort_desc:0 "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
+
+ OG_armored_production_effort:0 "Vehicle Refurbishment Plants"
+ OG_armored_production_effort_desc:0 ""
+
+ OG_tank_destroyer_effort:0 "Tank Destroyers"
+ OG_tank_destroyer_effort_desc:0 ""
+ 
+ OG_self_propelled_guns_effort:0 "Self-Propelled Guns"
+ OG_self_propelled_guns_effort_desc:0 ""
+
+ OG_license_production_focus:0 "License Production"
+ OG_license_production_focus_desc:0 ""
+
+ OG_army_reorganization_focus:0 "Military Reorganization"
+ OG_army_reorganization_focus_desc:0 ""
+ OG_army_reorganization_focus_select_effect_tt:0 "Immediate effect upon focus start:"
+ OG_army_reorganization_focus_complete_effect_tt:0 "\nEffects upon focus completion:"
+ 
+ 
+ OG_doctrine_effort:0 "Doctrine Effort"
+ OG_doctrine_effort_desc:0 "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
+ 
+ OG_military_planning_focus:0 "Campaign Planning Effort"
+ OG_military_planning_focus_desc:0 ""
+ 
+ OG_military_academy_focus:0 "Military Academy Scholarships"
+ OG_military_academy_focus_desc:0 ""
+ OG_military_academy_focus_tt:0 "Unlocks §G3 Extra Training Slots§! in the §YMilitary Academy§!. The training enables enhancements of the bonuses for all military advisors."
+ 
+ OG_doctrine_effort_2:0 "Doctrine Effort II"
+ OG_doctrine_effort_2_desc:0 "The battlefield has changed not just in the interbellum years, but over the course of recent conflicts. We must continuously reevaluate our doctrines to reflect this."
+ 
+ OG_women_military_corps_focus:0 "Women's Volunteer Corps"
+ OG_women_military_corps_focus_desc:0 ""
+ 
+ OG_home_guard_focus:0 "Homeguard Establishment"
+ OG_home_guard_focus_desc:0 ""
+ 
+ OG_doctrine_effort_3:0 "Doctrine Effort III"
+ OG_doctrine_effort_3_desc:0 ""
+
+ OG_equipment_effort:0 "Equipment Effort"
+ OG_equipment_effort_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
+
+
+ OG_war_economy_effort:0 "Lobby for Wartime Economics"
+ OG_war_economy_effort_desc:0 ""
+
+ OG_suppress_anti_war_sentiments_focus:0 "Suppress Anti-War Sentiments"
+ OG_suppress_anti_war_sentiments_focus_desc:0 ""
+
+ OG_artillery_effort:0 "Artillery Effort"
+ OG_artillery_effort_desc:0 ""
+ 
+ OG_artillery_effort_2:0 "Artillery Effort II"
+ OG_artillery_effort_2_desc:0 ""
+ 
+ OG_equipment_effort_2:0 "Equipment Effort II"
+ OG_equipment_effort_2_desc:0 "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time."
+ 
+ 
+ 
+ OG_anti_air_focus:0 "Anti-Aircraft Defence"
+ OG_anti_air_focus_desc:0 ""
+ 
+ OG_special_forces_focus:0 "Special Forces"
+ OG_special_forces_focus_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
+ 
+ OG_marines_focus:0 "Amphibious Assaults"
+ OG_marines_focus_desc:0 ""
+ 
+ OG_paratrooper_focus:0 "Airborne Operations"
+ OG_paratrooper_focus_desc:0 ""
+
+ OG_urban_combat_specialization_focus:0 "Shock Troop Tactics"
+ OG_urban_combat_specialization_focus_desc:0 "Out of the trenches the stormtroopers rise!"
+ OG_urban_combat_specialization_focus_tt:0 "§YMotorized§! and §YMechanized Units§! will gain §G+10% attack§!, §Gdefense§! and §G+5% Breakthrough§! in §YUrban Terrain§! and against §YForts§!."
+
+ OG_forest_combat_specialization_focus:0 "Arboreal Combat Training"
+ OG_forest_combat_specialization_focus_desc:0 ""
+ OG_forest_combat_specialization_focus_tt:0 "§YSpecial Forces Units§! will gain §G+10% attack§!, §Gdefense§! and §G+5% speed§! in §YForest§! and §YJungle Terrains§!."
+ 
+ 
+ ### Aviation ###
+ 
+ OG_aviation_effort:0 "Aviation Effort"
+ OG_aviation_effort_tt:0 "Not enough building slots for §YAir Base§!"
+ OG_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
+
+ OG_fighter_focus:0 "Fighter Focus"
+ OG_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
+
+ OG_bomber_focus:0 "Bomber Focus"
+ OG_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
+
+ OG_aviation_effort_2:0 "Aviation Effort II"
+ OG_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
+ OG_CAS_effort:0 "Death From Above"   #CAS Effort
+ OG_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
+
+ OG_escort_planes_focus:0 "Long Range Escorts"
+ OG_escort_planes_focus_desc:0 ""
+ 
+ OG_interceptor_focus:0 "Home Interception Command Center"
+ OG_interceptor_focus_desc:0 ""
+ 
+ OG_aircraft_parts_focus:0 "Airplane Module Innovation"
+ OG_aircraft_parts_focus_desc:0 ""
+ 
+ OG_domestic_plane_designs:0 "Pool Aeronautical Knowledge"
+ OG_domestic_plane_designs_desc:0 ""
+ 
+ OG_domestic_plane_production_focus:0 "Domestic Plane Program"
+ OG_domestic_plane_production_focus_desc:0 ""
+ 
+ OG_flying_clubs_focus:0 "Sponsor Flying Clubs"
+ OG_flying_clubs_focus_desc:0 ""
+ 
+ OG_aviation_effort_3:0 "Aviation Effort III"
+ OG_aviation_effort_3_desc:0 ""
+ 
+ OG_NAV_effort:0 "NAV Effort"   #NAV Effort
+ OG_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
+ 
+ ### Navy ###
+
+ OG_naval_effort:0 "Naval Effort"
+ OG_naval_effort_tt:0 "Not enough building slots for §YNaval Dockyards§!"
+ OG_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
+
+ OG_flexible_navy_focus:0 "Flexible Naval Doctrine Effort"
+ OG_flexible_navy_focus_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
+
+ OG_large_navy_focus:0 "Large Naval Doctrine Effort"
+ OG_large_navy_focus_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
+
+ OG_submarine_effort:0 "Submarine Effort"
+ OG_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
+
+ OG_cruiser_effort:0 "Cruiser Effort"
+ OG_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
+
+ OG_destroyer_effort:0 "Destroyer Effort"
+ OG_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
+
+ OG_capital_ships_effort:0 "Capital Ship Effort"
+ OG_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
+
+ OG_naval_effort_2:0 "Naval Effort II"
+ OG_naval_effort_2_desc:0 ""
+ 
+ OG_naval_base_effort:0 "Shipyard Building Effort"
+ OG_naval_base_effort_tt:0 "All §YNaval Bases§! in fully controlled core states:\nAdd §G2§! §YNaval Bases§!."
+ 
+ OG_coastal_batteries_effort:0 "Construct Coastal Batteries"
+ OG_coastal_batteries_effort_tt:0 "All §YNaval Bases§! in fully controlled core states:\nAdd §G3§! §YCoastal Forts§!."
+ 
+ OG_naval_refitting_effort:0 "Naval Refitting Yards"
+ OG_naval_refitting_effort_desc:0 ""
+ 
+ OG_naval_mine_warfare_effort:0 "Mine Warfare"
+ OG_naval_mine_warfare_effort_desc:0 ""
+ 
+ OG_naval_doctrine_effort:0 "Naval Doctrine Effort II"
+ OG_naval_doctrine_effort_desc:0 ""
+ 
+ OG_convoy_escort_focus:0 "Armored Convoys"
+ OG_convoy_escort_focus_desc:0 ""
+ 
+ OG_wolfpacks_focus:0 "Modular Construction"
+ OG_wolfpacks_focus_desc:0 ""
+
+ OG_naval_doctrine_effort_2:0 "Naval Doctrine Effort III"
+ OG_naval_doctrine_effort_2_desc:0 ""
+ 
+ OG_carrier_effort:0 "Carrier Effort"
+ OG_carrier_effort_desc:0 ""
+ 
+ OG_combined_arms_warfare_focus:0 "Future of Warfare"
+ OG_combined_arms_warfare_focus_desc:0 ""
+ 
+ ### Industry ###
+
+ OG_company_expansion_projects_focus:0 "Company Expansion Projects"
+ OG_company_expansion_projects_focus_desc:0 ""
+ OG_company_expansion_projects_focus_tt:0 "Enables enhancements of the bonuses for all designer companies."
+
+ OG_flexible_company_contracts_focus:0 "Flexible Contracts"
+ OG_flexible_company_contracts_focus_desc:0 ""
+
+ OG_industrial_effort:0 "Industrial Effort"
+ OG_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
+
+ OG_industrial_effort_2:0 "Industrial Effort II"
+ OG_industrial_effort_2_desc:0 "With iron will and a relentless work ethic, we can mobilize the people in another great industrial effort."
+
+ OG_construction_effort:0 "Construction Effort"
+ OG_construction_effort_tt:0 "Not enough building slots for §YCivilian Factories§!"
+ OG_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
+
+ OG_production_effort:0 "Armament Effort"
+ OG_production_effort_tt:0 "Not enough building slots for §YMilitary Factory§!"
+ OG_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
+
+ OG_construction_effort_2:0 "Construction Effort II"
+ OG_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further construction efforts."
+
+ OG_production_effort_2:0 "Armament Effort II"
+ OG_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
+ 
+ OG_production_effort_3:0 "Armament Effort III"
+ OG_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
+
+ OG_infrastructure_effort:0 "Infrastructure Effort"
+ OG_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
+ OG_infrastructure_effort_tt:0 "Not enough building slots for §YInfrastructure§!"
+
+ OG_infrastructure_effort_2:0 "Infrastructure Effort II"
+ OG_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
+
+ OG_construction_effort_3:0 "Construction Effort III"
+ OG_construction_effort_3_desc:0 "Expansion of our infrastructure network has significantly improved our capacity for construction."
+
+ OG_nuclear_effort:0 "Nuclear Wonder Weapons"
+ OG_nuclear_effort_desc:0 "Standing on the edge of a world-changing discovery, we cannot let others light the fire that may one day consume the Earth."
+
+ OG_extra_tech_slot:0 "National Research Institute"
+ OG_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
+
+ OG_extra_tech_slot_2:0 "Classified Discoveries Department"
+ OG_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
+
+ OG_technology_sharing_focus:0 "Technology Sharing"
+ OG_technology_sharing_focus_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+
+ OG_bunker_construction_effort:0 "Fortify Strategic Locations"
+ OG_bunker_construction_effort_desc:0 ""
+ OG_bunker_construction_effort_tt:0 "All §YVictory Points§! in fully controlled core states:\nAdd §G2§! §YLand Forts§!."
+ 
+ OG_war_industrial_coordination_focus:0 "War Industrial Coordination"
+ OG_war_industrial_coordination_focus_desc:0 ""
+  
+ OG_resource_excavation_effort:0 "Resource Excavation Prospecting"
+ OG_resource_excavation_effort_desc:0 ""
+
+ OG_refinery_effort:0 "Synthetic Experiments"
+ OG_refinery_effort_desc:0 ""
+ 
+ OG_rationing_focus:0 "Rationing & Bomb Shelters"
+ OG_rationing_focus_desc:0 ""
+ 
+ OG_public_sector_expansion_focus:0 "Public Sector Expansion"  #/Private Sector
+ OG_public_sector_expansion_focus_tt:0 "All §Ycontrolled core states§!:\nAdd §G2§! Building Slots."
+ OG_public_sector_expansion_focus_desc:0 ""
+ 
+ OG_railway_effort:0 "Railway Network Expansion"
+ OG_railway_effort_desc:0 "Make the trains run on time!"
+ 
+ OG_electronics_focus:0 "Computing Advancements"    #secret_weapons
+ OG_electronics_focus_desc:0 "It is tempting to expend all extra resources into developing tanks and planes, but the secret to winning wars lies in whole new fields of science; electronics, rocketry and nuclear research."
+ 
+ OG_generic_radar_focus:0 "Radiolocation Systems"
+ OG_generic_radar_focus_desc:0 "The ability to detect enemy bombers will be crucial to the war effort. We should spare no resources in further developing Radar technology and constructing a network of detection stations along the coasts."
+ 
+ OG_rocket_effort:0 "Rocketry Science"
+ OG_rocket_effort_desc:0 "Rocket and jet engines allow for unprecedented speeds for unmanned and manned vessels alike. Pioneering these technologies will allow us to take the enemy by surprise."
+ 
+ ### Fascism ###
+ 
+ OG_political_effort:0 "Political Effort"
+ OG_political_effort_desc:0 "To bring about change in the world, we need to be able to bring about change in our own country. Strengthening our political position should come first."
+
+ OG_collectivist_ethos_focus:0 "Collectivist Ethos"
+ OG_collectivist_ethos_focus_desc:0 "Our enemies may divide and conquer lesser nations, but our people will stand united. All for one and one for all."
+ 
+ OG_nationalism_focus:0 "Nationalism"
+ OG_nationalism_focus_desc:0 "Our nation is unique, and our political achievements could only have happened here. We must fight for it at any cost."
+ 
+ OG_seize_foreign_assets_focus:0 "Seize Foreign Assets"
+ OG_seize_foreign_assets_focus_desc:0 ""
+ 
+ OG_military_youth_focus:0 "National Youth Organization"
+ OG_military_youth_focus_desc:0 "Organizations to promote discipline and political education of young people in our nation will foster loyalty and self-sacrifice early."
+
+ OG_militarism_focus:0 "[ROOT.GetAdjective] Militarism"
+ OG_militarism_focus_desc:0 "Those who view the military as a necessary evil are doomed to hesitate in the face of war. We will ingrain militarism into our culture to become a people of soldiers."
+
+ OG_eugenics_propaganda_focus:0 "Triumph of Will"   #Eugenics Propaganda
+ OG_eugenics_propaganda_focus_desc:0 ""
+
+ OG_paramilitarism_focus:0 "Paramilitary Intergration"
+ OG_paramilitarism_focus_desc:0 "Military principles have applications outside of the military. With the development of semi-militarized units to complement our armed forces, more people will have military training."
+
+ OG_national_labour_front_focus:0 "National Labour Front"
+ OG_national_labour_front_focus_desc:0 ""
+
+ OG_fascist_new_world_order_focus:0 "New World Order"    #Total War #Lebensraum
+ OG_fascist_new_world_order_focus_desc:0 ""
+ 
+ OG_fascist_new_world_order_focus_tt_1:0 "Random §Ycontrolled state§!:\nAdd core of §Y[ROOT.GetName]§!."
+ OG_fascist_new_world_order_focus_tt_2:0 "\nRandom §Ycontrolled state§!:"
+ 
+ OG_ideological_fanaticism_focus:0 "Ideological Fanaticism"
+ OG_ideological_fanaticism_focus_desc:0 "Our politically established values and goals are worth dying for as much as any ancient faith. Any follower should be prepared to face death, and those who stray better be prepared to face death."
+ 
+ ### Communism ###
+ 
+ OG_internationalism_focus:0 "Internationalism"
+ OG_internationalism_focus_desc:0 "Ideology knows no borders. Another nation may call itself sovereign, but our convictions are above such claims."
+ 
+ OG_class_struggle_focus:0 "Class Struggle"
+ OG_class_struggle_focus_desc:0 ""
+ 
+ OG_collectivisation_focus:0 "Collectivisation"
+ OG_collectivisation_focus_desc:0 ""
+ OG_collectivisation_focus_tt:0 "All §Ycontrolled core states§!:\nAdd §G1§! Building Slot."
+ 
+ OG_planned_economy_focus:0 "Planned Economy"
+ OG_planned_economy_focus_desc:0 ""
+ 
+ OG_socialist_indoctrination_focus:0 "Socialist Indoctrination"
+ OG_socialist_indoctrination_focus_desc:0 ""
+ 
+ OG_cult_of_personality_focus:0 "Cult of Personality"
+ OG_cult_of_personality_focus_desc:0 ""
+ 
+ OG_gunboat_diplomacy_focus:0 "Gunboat Diplomacy"
+ OG_gunboat_diplomacy_focus_desc:0 ""
+ OG_gunboat_diplomacy_focus_tt:0 "Enables claiming border states from our neighbours."
+
+ OG_political_commissars_focus:0 "Political Commissars"
+ OG_political_commissars_focus_desc:0 "To ensure that our policies are followed in military practice, we will introduce politically appointed officials into military ranks."
+
+ OG_world_revolution_focus:0 "Spread the World Revolution"
+ OG_world_revolution_focus_desc:0 ""
+ OG_world_revolution_focus_tt:0 "All neighbouring §Ynon-ally§! and §Ynon-communist§! countries:"
+ 
+ OG_communist_partisan_focus:0 "Resistance Movement"
+ OG_communist_partisan_focus_desc:0 "Viva la resistance!"
+ 
+ ### Neutrality ###
+ 
+ OG_liberty_ethos_focus:0 "Liberty Ethos"
+ OG_liberty_ethos_focus_desc:0 "In this time of ideological fanatics who seek to suffocate the human spirit, we will safeguard individual liberties and freedom."
+ 
+ OG_neutrality_focus:0 "Isolationism"
+ OG_neutrality_focus_desc:0 "While others may claim it takes bravery and wisdom to take sides in a global conflict, we know it takes more to refuse."
+ 
+ OG_neutrality_trade_focus:0 "Open Trade Agreements"
+ OG_neutrality_trade_focus_desc:0 ""
+ 
+ OG_concessions_focus:0 "Realpolitik"   #Flexible Foreign Policy
+ OG_concessions_focus_desc:0 ""
+ 
+ OG_deterrence_focus:0 "Deterrence"
+ OG_deterrence_focus_desc:0 "Standing alone, we rarely benefit from war. Fortunately, we know that the best defense is one so well-known you never have to put it to use."
+ 
+ OG_shelter_refugees_focus:0 "Asylum Haven"
+ OG_shelter_refugees_focus_desc:0 ""
+ 
+ OG_perseverance_focus:0 "Perseverance of Peace"
+ OG_perseverance_focus_desc:0 "Reassurance"
+ 
+ OG_the_greater_good_focus:0 "The Greater Good"
+ OG_the_greater_good_focus_desc:0 ""
+ 
+ OG_king_and_country_focus:0 "For King and Country!"
+ OG_king_and_country_focus_desc:0 ""
+ 
+ 
+ ### Democratic ###
+
+ OG_interventionism_focus:0 "Interventionism"
+ OG_interventionism_focus_desc:0 "We value the freedom of all people, not only our own citizens. If preventing tyranny means war, then so be it."
+ 
+ OG_volunteer_corps_focus:0 "Volunteer Corps"
+ OG_volunteer_corps_focus_desc:0 "Forcing our people to die for ideals of freedom would be an exercise in irony, but establishing means for those who wish to aid people abroad is not. With our enemies prepared to intervene in distant conflicts on behalf of their ideals, we must be ready to do the same for ours."
+
+ OG_lend_lease_program_focus:0 "Lend Lease Program"
+ OG_lend_lease_program_focus_desc:0 ""
+ 
+ OG_guarantees_focus:0 "Global Peace Act"
+ OG_guarantees_focus_desc:0 "Gurantees & Sanctions"
+ 
+ OG_united_high_command_focus:0 "United Allied High Command"
+ OG_united_high_command_focus_tt:0 "All §YAllied Nations§! will also gain this §GBonus§! while in your §YFaction§!."
+ 
+ OG_arsenal_of_democracy_focus:0 "Arsenal of Democracy"
+ OG_arsenal_of_democracy_focus_desc:0 ""
+ 
+ OG_jurisdiction_focus:0 "Modern Jurisdiction"
+ OG_jurisdiction_focus_desc:0 ""
+ 
+ OG_reprisal_focus:0 "Reprisal Bombers"
+ OG_reprisal_focus_desc:0 ""
+ 
+ OG_bastion_of_democracy_focus:0 "Bastion of Liberty"
+ OG_bastion_of_democracy_focus_desc:0 ""
+
+ OG_international_recognition_focus:0 "Seek International Recognition"
+ OG_international_recognition_focus_desc:0 ""
+
+ OG_create_agency_focus:0 "Central Intelligence"
+ OG_create_agency_focus_desc:0 ""
+ OG_create_agency_focus_tt:0 "Unlocks operation: §YFabricate Claim on State§!. (Requires §YCivilian Administration Infiltration§!)\n\n[GetAgencyRequirement]"
+ 
+ 
+ OG_why_we_fight_focus:0 "Why We Fight"
+ OG_why_we_fight_focus_desc:0 "The world is growing increasingly unsafe. Our people need to see the atrocities being committed by those who crave power. It is time we rally the people to our cause and ensure everyone is ready to fight for our freedom."
+ 
+ 
+ 
+ 

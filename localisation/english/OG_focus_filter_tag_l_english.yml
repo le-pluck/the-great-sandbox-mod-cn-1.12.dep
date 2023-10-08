@@ -1,0 +1,20 @@
+﻿l_english:
+
+ FOCUS_FILTER_DEMOCRACY:0 "Democracy"
+
+ FOCUS_FILTER_FASCISM:0 "Fascism"
+
+ FOCUS_FILTER_COMMUNISM:0 "Communism"
+
+ FOCUS_FILTER_MONARCHISM:0 "Non-Aligned"
+
+ FOCUS_FILTER_ARMY:0 "Army"
+
+ FOCUS_FILTER_NAVY:0 "Navy"
+ 
+ FOCUS_FILTER_AIRFORCE:0 "Airforce"
+ 
+ FOCUS_FILTER_ESPIONAGE:0 "Espionage"
+ 
+ FOCUS_FILTER_ECONOMY:0 "Economy"
+ 

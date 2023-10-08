@@ -1,0 +1,194 @@
+﻿l_english:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OG_MILITARY_ACADEMY_TT_1:0 "[OG_GetMilitaryAcademyEffects_1]"
+ OG_MILITARY_ACADEMY_TT_2:0 "[OG_GetMilitaryAcademyEffects_2]"
+ OG_MILITARY_ACADEMY_TT_3:0 "[OG_GetMilitaryAcademyEffects_3]"
+ OG_MILITARY_ACADEMY_TT_4:0 "[OG_GetMilitaryAcademyEffects_4]"
+ OG_MILITARY_ACADEMY_TT_5:0 "[OG_GetMilitaryAcademyEffects_5]"
+ OG_MILITARY_ACADEMY_TT_6:0 "[OG_GetMilitaryAcademyEffects_6]"
+ 
+ 
+ OG_military_academy_empty_slot_tt:1 "This military academy slot is currently §Gempty§!. A new §YOfficer§! can be §Gtrained§!."
+ OG_military_academy_locked_slot_tt:1 "This military academy slot is currently locked. It can be unlocked by completing the following focus: §Y$OG_military_academy_focus$§!"
+
+ OG_military_academy_1_text:0 "[OG_GetDaysRemaining_1]"
+ OG_military_academy_2_text:0 "[OG_GetDaysRemaining_2]"
+ OG_military_academy_3_text:0 "[OG_GetDaysRemaining_3]"
+ OG_military_academy_4_text:0 "[OG_GetDaysRemaining_4]"
+ OG_military_academy_5_text:0 "[OG_GetDaysRemaining_5]"
+ OG_military_academy_6_text:0 "[OG_GetDaysRemaining_6]"
+ 
+ OG_military_academy_1_officer_role_text:0 "[OG_GetOfficerRole_1]"
+ OG_military_academy_2_officer_role_text:0 "[OG_GetOfficerRole_2]"
+ OG_military_academy_3_officer_role_text:0 "[OG_GetOfficerRole_3]"
+ OG_military_academy_4_officer_role_text:0 "[OG_GetOfficerRole_4]"
+ OG_military_academy_5_officer_role_text:0 "[OG_GetOfficerRole_5]"
+ OG_military_academy_6_officer_role_text:0 "[OG_GetOfficerRole_6]"
+ 
+ OG_military_academy_1_officer_level_text:0 "[OG_GetOfficerLevel_1]"
+ OG_military_academy_2_officer_level_text:0 "[OG_GetOfficerLevel_2]"
+ OG_military_academy_3_officer_level_text:0 "[OG_GetOfficerLevel_3]"
+ OG_military_academy_4_officer_level_text:0 "[OG_GetOfficerLevel_4]"
+ OG_military_academy_5_officer_level_text:0 "[OG_GetOfficerLevel_5]"
+ OG_military_academy_6_officer_level_text:0 "[OG_GetOfficerLevel_6]"
+ 
+ 
+ 
+ OG_military_academy_specialist_to_expert_tt:0 "§GSpecialist -> Expert§!"
+ OG_military_academy_expert_to_genius_tt:0 "§GExpert -> Genius§!"
+ 
+ OG_military_academy_tooltip_null:0 ""
+ 
+ OG_officer_in_training_photo_1_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_1_days_remaining_flag:days_left|Y0]§! days remaining"
+ OG_officer_in_training_photo_2_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_2_days_remaining_flag:days_left|Y0]§! days remaining"
+ OG_officer_in_training_photo_3_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_3_days_remaining_flag:days_left|Y0]§! days remaining"
+ OG_officer_in_training_photo_4_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_4_days_remaining_flag:days_left|Y0]§! days remaining"
+ OG_officer_in_training_photo_5_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_5_days_remaining_flag:days_left|Y0]§! days remaining"
+ OG_officer_in_training_photo_6_days_remaining_text:0 "§Y[?OG_officer_in_training_photo_6_days_remaining_flag:days_left|Y0]§! days remaining"
+ 
+ OG_military_academy_next_training_cost_tt:0  "§RNext time you train this officer, the cost will be multiplied by 2§!."
+ 
+ 
+ OG_military_academy_training_slot_available_tt:0 "Has an empty military training slot."
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ ### MILITARY ACADEMY ###
+ 
+ OG_military_academy_decision_category:0 "Military Academy"
+ OG_military_academy_decision_category_desc:0 "All §YSpecialist§! and §YExpert§! level military advisors are eligible for training in the military academy. While undergoing training, the advisor will be unavailable for hiring. §RAlready hired advisors which are sent to the academy will be fired and not automatically rehired upon returning!§!"
+
+ ### CHIEFS ###
+
+ OG_train_army_chief_old_guard_decision:0 "Army Chief Old Guard"
+ OG_train_army_chief_old_guard_decision_tt:0 "§g[XYZ_army_chief_old_guard.GetName]§!\nArmy Chief\nOld Guard"
+ OG_train_army_chief_reform_decision:0 "Army Chief Reformer"
+ OG_train_army_chief_reform_decision_tt:0 "§g[XYZ_army_chief_reform.GetName]§!\nArmy Chief\nReformer"
+ OG_train_army_chief_drill_decision:0 "Army Chief Drill"
+ OG_train_army_chief_drill_decision_tt:0 "§g[XYZ_army_chief_drill.GetName]§!\nArmy Chief\nDrill"
+ OG_train_army_chief_organizational_decision:0 "Army Chief Organization"
+ OG_train_army_chief_organizational_decision_tt:0 "§g[XYZ_army_chief_organizational.GetName]§!\nArmy Chief\nOrganization"
+ OG_train_army_chief_planning_decision:0 "Army Chief Planning"
+ OG_train_army_chief_planning_decision_tt:0 "§g[XYZ_army_chief_planning.GetName]§!\nArmy Chief\nPlanning"
+ OG_train_army_chief_offensive_decision:0 "Army Chief Offensive"
+ OG_train_army_chief_offensive_decision_tt:0 "§g[XYZ_army_chief_offensive.GetName]§!\nArmy Chief\nOffensive"
+ OG_train_army_chief_defensive_decision:0 "Army Chief Defensive"
+ OG_train_army_chief_defensive_decision_tt:0 "§g[XYZ_army_chief_defensive.GetName]§!\nArmy Chief\nDefensive"
+ OG_train_army_chief_maneuver_decision:0 "Army Chief Maneuver"
+ OG_train_army_chief_maneuver_decision_tt:0 "§g[XYZ_army_chief_maneuver.GetName]§!\nArmy Chief\nManeuver"
+ OG_train_army_chief_morale_decision:0 "Army Chief Morale"
+ OG_train_army_chief_morale_decision_tt:0 "§g[XYZ_army_chief_morale.GetName]§!\nArmy Chief\nMorale"
+ OG_train_army_chief_entrenchment_decision:0 "Army Chief Engineering"
+ OG_train_army_chief_entrenchment_decision_tt:0 "§g[XYZ_army_chief_entrenchment.GetName]§!\nArmy Chief\nEngineering"
+
+ OG_train_air_chief_old_guard_decision:0 "Airforce Chief Old Guard"
+ OG_train_air_chief_old_guard_decision_tt:0 "§g[XYZ_air_chief_old_guard.GetName]§!\nAirforce Chief\nOld Guard"
+ OG_train_air_chief_reform_decision:0 "Airforce Chief Reformer"
+ OG_train_air_chief_reform_decision_tt:0 "§g[XYZ_air_chief_reform.GetName]§!\nAirforce Chief\nReformer"
+ OG_train_air_chief_all_weather_decision:0 "Airforce Chief All-weather"
+ OG_train_air_chief_all_weather_decision_tt:0 "§g[XYZ_air_chief_all_weather.GetName]§!\nAirforce Chief\nAll-weather"
+ OG_train_air_chief_night_operations_decision:0 "Airforce Chief Night Operations"
+ OG_train_air_chief_night_operations_decision_tt:0 "§g[XYZ_air_chief_night_operations.GetName]§!\nAirforce Chief\nNight Operations"
+ OG_train_air_chief_safety_decision:0 "Airforce Chief Safety"
+ OG_train_air_chief_safety_decision_tt:0 "§g[XYZ_air_chief_safety.GetName]§!\nAirforce Chief\nSafety"
+ OG_train_air_chief_ground_support_decision:0 "Airforce Chief Ground Support"
+ OG_train_air_chief_ground_support_decision_tt:0 "§g[XYZ_air_chief_ground_support.GetName]§!\nAirforce Chief\nGround Support"
+
+ OG_train_navy_chief_old_guard_decision:0 "Navy Chief Old Guard"
+ OG_train_navy_chief_old_guard_decision_tt:0 "§g[XYZ_navy_chief_old_guard.GetName]§!\nNavy Chief\nOld Guard"
+ OG_train_navy_chief_reform_decision:0 "Navy Chief Reformer"
+ OG_train_navy_chief_reform_decision_tt:0 "§g[XYZ_navy_chief_reform.GetName]§!\nNavy Chief\nReformer"
+ OG_train_navy_chief_decisive_battle_decision:0 "Navy Chief Decisive Battle"
+ OG_train_navy_chief_decisive_battle_decision_tt:0 "§g[XYZ_navy_chief_decisive_battle.GetName]§!\nNavy Chief\nDecisive Battle"
+ OG_train_navy_chief_commerce_raiding_decision:0 "Navy Chief Commerce Raiding"
+ OG_train_navy_chief_commerce_raiding_decision_tt:0 "§g[XYZ_navy_chief_commerce_raiding.GetName]§!\nNavy Chief\nCommerce Raiding"
+ OG_train_navy_chief_naval_aviation_decision:0 "Navy Chief Naval Aviation"
+ OG_train_navy_chief_naval_aviation_decision_tt:0 "§g[XYZ_navy_chief_naval_aviation.GetName]§!\nNavy Chief\nNaval Aviation"
+ OG_train_navy_chief_maneuver_decision:0 "Navy Chief Maneuver"
+ OG_train_navy_chief_maneuver_decision_tt:0 "§g[XYZ_navy_chief_maneuver.GetName]§!\nNavy Chief\nManeuver"
+ OG_train_navy_chief_small_fleet_organizer_decision:0 "Navy Chief Naval Underdog"
+ OG_train_navy_chief_small_fleet_organizer_decision_tt:0 "§g[XYZ_navy_chief_small_fleet_organizer.GetName]§!\nNavy Chief\nNaval Underdog"
+
+ ### ARMY HIGH COMMAND ###
+ OG_train_army_infantry_decision:0 "Army High Command Infantry"
+ OG_train_army_infantry_decision_tt:0 "§g[XYZ_army_infantry.GetName]§!\nArmy High Command\nInfantry"
+ OG_train_army_commando_decision:0 "Army High Command Commando"
+ OG_train_army_commando_decision_tt:0 "§g[XYZ_army_commando.GetName]§!\nArmy High Command\nCommando"
+ OG_train_army_artillery_decision:0 "Army High Command Artillery"
+ OG_train_army_artillery_decision_tt:0 "§g[XYZ_army_artillery.GetName]§!\nArmy High Command\nArtillery"
+ OG_train_army_logistics_decision:0 "Army High Command Logistics"
+ OG_train_army_logistics_decision_tt:0 "§g[XYZ_army_logistics.GetName]§!\nArmy High Command\nLogistics"
+ OG_train_army_planning_decision:0 "Army High Command Improvisation"
+ OG_train_army_planning_decision_tt:0 "§g[XYZ_army_planning.GetName]§!\nArmy High Command\nImprovisation"
+ OG_train_army_regrouping_decision:0 "Army High Command Regrouping"
+ OG_train_army_regrouping_decision_tt:0 "§g[XYZ_army_regrouping.GetName]§!\nArmy High Command\nRegrouping"
+ OG_train_army_entrenchment_decision:0 "Army High Command Entrenchment"
+ OG_train_army_entrenchment_decision_tt:0 "§g[XYZ_army_entrenchment.GetName]§!\nArmy High Command\nEntrenchment"
+ OG_train_army_cavalry_decision:0 "Army High Command Cavalry"
+ OG_train_army_cavalry_decision_tt:0 "§g[XYZ_army_cavalry.GetName]§!\nArmy High Command\nCavalry"
+ OG_train_army_CombinedArms_decision:0 "Army High Command Combined Arms"
+ OG_train_army_CombinedArms_decision_tt:0 "§g[XYZ_army_CombinedArms.GetName]§!\nArmy High Command\nCombined Arms"
+ OG_train_army_armored_decision:0 "Army High Command Armor"
+ OG_train_army_armored_decision_tt:0 "§g[XYZ_army_armored.GetName]§!\nArmy High\nCommand Armor"
+ OG_train_army_concealment_decision:0 "Army High Command Concealment"
+ OG_train_army_concealment_decision_tt:0 "§g[XYZ_army_concealment.GetName]§!\nArmy High Command\nConcealment"
+
+ ### AIRFORCE HIGH COMMAND ###
+ OG_train_air_air_superiority_decision:0 "Airforce High Command Air Superiority"
+ OG_train_air_air_superiority_decision_tt:0 "§g[XYZ_air_air_superiority.GetName]§!\nAirforce High Command\nAir Superiority"
+ OG_train_air_close_air_support_decision:0 "Airforce High Command Close Air Support"
+ OG_train_air_close_air_support_decision_tt:0 "§g[XYZ_air_close_air_support.GetName]§!\nAirforce High Command\nClose Air Support"
+ OG_train_air_tactical_bombing_decision:0 "Airforce High Command Tactical Bombing"
+ OG_train_air_tactical_bombing_decision_tt:0 "§g[XYZ_air_tactical_bombing.GetName]§!\nAirforce High Command\nTactical Bombing"
+ OG_train_air_strategic_bombing_decision:0 "Airforce High Command Strategic Bombing"
+ OG_train_air_strategic_bombing_decision_tt:0 "§g[XYZ_air_strategic_bombing.GetName]§!\nAirforce High Command\nStrategic Bombing"
+ OG_train_air_bomber_interception_decision:0 "Airforce High Command Bomber Interception"
+ OG_train_air_bomber_interception_decision_tt:0 "§g[XYZ_air_bomber_interception.GetName]§!\nAirforce High Command\nBomber Interception"
+ OG_train_air_pilot_training_decision:0 "Airforce High Command Pilot Training"
+ OG_train_air_pilot_training_decision_tt:0 "§g[XYZ_air_pilot_training.GetName]§!\nAirforce High Command\nPilot Training"
+ OG_train_air_air_combat_training_decision:0 "Airforce High Command Air Combat Training"
+ OG_train_air_air_combat_training_decision_tt:0 "§g[XYZ_air_air_combat_training.GetName]§!\nAirforce High Command\nAir Combat Training"
+ OG_train_air_naval_strike_decision:0 "Airforce High Command Naval Strike"
+ OG_train_air_naval_strike_decision_tt:0 "§g[XYZ_air_naval_strike.GetName]§!\nAirforce High Command\nNaval Strike"
+ OG_train_air_airborne_decision:0 "Airforce High Command Airborne Assault"
+ OG_train_air_airborne_decision_tt:0 "§g[XYZ_air_airborne.GetName]§!\nAirforce High Command\nAirborne Assault"
+
+ ### NAVY HIGH COMMAND ###
+ OG_train_navy_amphibious_assault_decision:0 "Navy High Command Amphibious Assault"
+ OG_train_navy_amphibious_assault_decision_tt:0 "§g[XYZ_navy_amphibious_assault.GetName]§!\nNavy High Command\nAmphibious Assault"
+ OG_train_navy_fleet_logistics_decision:0 "Navy High Command Fleet Logistics"
+ OG_train_navy_fleet_logistics_decision_tt:0 "§g[XYZ_navy_fleet_logistics.GetName]§!\nNavy High Command\nFleet Logistics"
+ OG_train_navy_anti_submarine_decision:0 "Navy High Command Anti-Submarine"
+ OG_train_navy_anti_submarine_decision_tt:0 "§g[XYZ_navy_anti_submarine.GetName]§!\nNavy High Command\nAnti-Submarine"
+ OG_train_navy_submarine_decision:0 "Navy High Command Submarines"
+ OG_train_navy_submarine_decision_tt:0 "§g[XYZ_navy_submarine.GetName]§!\nNavy High Command\nSubmarines"
+ OG_train_navy_screen_decision:0 "Navy High Command Screens"
+ OG_train_navy_screen_decision_tt:0 "§g[XYZ_navy_screen.GetName]§!\nNavy High Command\nScreens"
+ OG_train_navy_capital_ship_decision:0 "Navy High Command Capital Ships"
+ OG_train_navy_capital_ship_decision_tt:0 "§g[XYZ_navy_capital_ship.GetName]§!\nNavy High Command\nCapital Ships"
+ OG_train_navy_carrier_decision:0 "Navy High Command Carriers"
+ OG_train_navy_carrier_decision_tt:0 "§g[XYZ_navy_carrier.GetName]§!\nNavy High Command\nCarriers"
+ OG_train_navy_naval_air_defense_decision:0 "Navy High Command Naval Air Defense"
+ OG_train_navy_naval_air_defense_decision_tt:0 "§g[XYZ_navy_naval_air_defense.GetName]§!\nNavy High Command\nNaval Air Defense"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,183 @@
+﻿l_english:
+
+ #Hidden Event
+ #aggression_event.1.t:0 ""
+ #aggression_event.1.desc:0 ""
+ #aggression_event.1.a:0 ""
+ 
+ 
+ aggression_event.2.t:0 "[FROM.GetAdjective] Territorial Demands"
+ aggression_event.2.desc:0 "[FROM.GetNameDefCap] has sent an ultimatium, demanding immediate control of one of our states. Should we not comply, they might try to seize it by military means..."
+ aggression_event.2.a:0 "There must be peace for our time."
+ aggression_event.2.b:0 "We shall never surrender an inch!"
+ aggression_event.2.c:0 "Perhaps we can strike a bargain for some autonomy instead?"
+ aggression_event_2_c_accept_tt:0 "If they accept:"
+ aggression_event_2_c_decline_tt:0 "If they refuse:"
+ 
+ aggression_event.3.t:0 "[FROM.GetNameDefCap] Has Accepted Our Demands!"
+ aggression_event.3.desc:0 "The weak [FROM.GetAdjective] government has given to our demands and given us control over the contested area."
+ aggression_event.3.a:0 "Excellent."
+ 
+ aggression_event.4.t:0 "[FROM.GetName] Has Refused Our Demands!"
+ aggression_event.4.desc:0 "The foolish [FROM.GetAdjective] government has refused to give in to our demands. They've instead mobilized their troops and will not tolerate any further provocations."
+ aggression_event.4.a:0 "To war!"
+ aggression_event.4.b:0 "Let's not be hasty."
+ aggression_event.4.c:0 "We must back down..."
+ 
+ aggression_event.5.t:0 "[FROM.GetName] Relations Sour"
+ aggression_event.5.desc:0 "[FROM.GetName] has chosen not to escalate the conflict for now, but have also not withdrawn their claims on the contested area. It would be wise to keep an eye on the them, lest they try something deceitful."
+ aggression_event.5.a:0 "We better reinforce the border guard."
+ 
+ aggression_event.6.t:0 "[FROM.GetName] Backs Down!"
+ aggression_event.6.desc:0 "[FROM.GetName] has backed down from their claims, issuing an official apology in the process for their untactful blunder."
+ aggression_event.6.a:0 "A diplomatic success!"
+ 
+ aggression_event.7.t:0 "[FROM.GetName] Offers Compromise"
+ aggression_event.7.desc:0 "The [FROM.GetAdjectiveCap] government have come with a counteroffer to our ultimatium; Recognizing the great difference in power between our nations but also their peoples' wishes for sovereignty, they've instead offered us influence over their nation in exchange for keeping some of their autonomy."
+ aggression_event.7.a:0 "Bring them under our yoke."
+ aggression_event.7.b:0 "They're in no position to strike bargains!"
+ 
+ aggression_event.8.t:0 "[FROM.GetName] Has Accepted Our Counteroffer"
+ aggression_event.8.desc:0 ""
+ aggression_event.8.a:0 "We had no choice."
+
+ aggression_event.9.t:0 "[FROM.GetName] Has Declined Our Counteroffer"
+ aggression_event.9.desc:0 ""
+ aggression_event.9.a:0 "Warmongerers!"
+ 
+ 
+ 
+ 
+ 
+ 
+ aggression_event.10.t:0 "A Solution For White Peace?"
+ aggression_event.10.desc:0 "The war has grown stagnant as we have no land nor sea access to our remaining enemies. A solution would be to offer white peace in exchange for all states currently fully occupied by us."
+ aggression_event.10.a:0 "A small victory is better than none. Send the offer."
+ aggression_event.10.b:0 "Only an unconditional surrender is acceptable. Keep fighting!"
+ aggression_event_10_tt:0 "If [THIS.GetName] accepts the offer:"
+
+ aggression_event.11.t:0 "[FROM.GetAdjective] Request For Ceasefire"
+ aggression_event.11.desc:0 "The war has grown stagnant as we have no land nor sea access to our remaining enemies. [FROM.GetAdjective] diplomats have thus brought forth a solution for white peace. We would have to cede all states currently fully occupied by [FROM.GetNameDef]."
+ aggression_event.11.a:0 "It's a price we're willing to pay."
+ aggression_event.11.b:0 "We won't cede an inch of soil!"
+ 
+ aggression_event.12.t:0 "[FROM.GetNameDefCap] Has Accept Our Offer"
+ aggression_event.12.desc:0 ""
+ aggression_event.12.a:0 "Excellent."
+ 
+ aggression_event.13.t:0 "[FROM.GetNameDefCap] Has Declined Our Offer"
+ aggression_event.13.desc:0 ""
+ aggression_event.13.a:0 "Thickheaded fools!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ world_at_war.1.t:0 "Ideological Commitment"
+ world_at_war.1.desc:0 "At the latest [ROOT.GetDemocraticParty] party conference in [ROOT.capital.GetCapitalVictoryPointName], the future of the party and its ideology has been brought up as the main topic for debate. Either we keep the current party line under the leadership of [ROOT.GetDemocraticLeader], or elect someone else in favour of different values."
+ world_at_war.1.a:0 "Socialism"
+ world_at_war_1_a1_tt:0 "The sub-ideology of the democratic party will remain §YSocialism§!."
+ world_at_war_1_a2_tt:0 "The sub-ideology of the democratic party will become §YSocialism§!."
+ world_at_war.1.b:0 "Liberalism"
+ world_at_war_1_b1_tt:0 "The sub-ideology of the democratic party will remain §YLiberalism§!."
+ world_at_war_1_b2_tt:0 "The sub-ideology of the democratic party will become §YLiberalism§!."
+ world_at_war.1.c:0 "Conservatism"
+ world_at_war_1_c1_tt:0 "The sub-ideology of the democratic party will remain §YConservatism§!."
+ world_at_war_1_c2_tt:0 "The sub-ideology of the democratic party will become §YConservatism§!."
+ world_at_war.1.d:0 "Centrism"
+ world_at_war_1_d1_tt:0 "The sub-ideology of the democratic party will remain §YCentrism§!."
+ world_at_war_1_d2_tt:0 "The sub-ideology of the democratic party will become §YCentrism§!."
+
+ world_at_war.2.t:0 "Ideological Commitment"
+ world_at_war.2.desc:0 "At the latest [ROOT.GetNeutralParty] party conference in [ROOT.capital.GetCapitalVictoryPointName], the future of the party and its ideology has been brought up as the main topic for debate. Either we keep the current party line under the leadership of [ROOT.GetNeutralLeader], or elect someone else in favour of different values."
+ world_at_war.2.a:0 "Stratocratism"
+ world_at_war_2_a1_tt:0 "The sub-ideology of the non-aligned party will remain §YStratocratism§!."
+ world_at_war_2_a2_tt:0 "The sub-ideology of the non-aligned party will become §YStratocratism§!."
+ world_at_war.2.b:0 "Corporatism"
+ world_at_war_2_b1_tt:0 "The sub-ideology of the non-aligned party will remain §YCorporatism§!."
+ world_at_war_2_b2_tt:0 "The sub-ideology of the non-aligned party will become §YCorporatism§!."
+ world_at_war.2.c:0 "Despotism"
+ world_at_war_2_c1_tt:0 "The sub-ideology of the non-aligned party will remain §YDespotism§!."
+ world_at_war_2_c2_tt:0 "The sub-ideology of the non-aligned party will become §YDespotism§!."
+ world_at_war.2.d:0 "Theocratism"
+ world_at_war_2_d1_tt:0 "The sub-ideology of the non-aligned party will remain §YTheocratism§!."
+ world_at_war_2_d2_tt:0 "The sub-ideology of the non-aligned party will become §YTheocratism§!."
+
+ world_at_war.3.t:0 "Ideological Commitment"
+ world_at_war.3.desc:0 "At the latest [ROOT.GetFascistParty] party conference in [ROOT.capital.GetCapitalVictoryPointName], the future of the party and its ideology has been brought up as the main topic for debate. Either we keep the current party line under the leadership of [ROOT.GetFascistLeader], or elect someone else in favour of different values."
+ world_at_war.3.a:0 "Nazism"
+ world_at_war_3_a1_tt:0 "The sub-ideology of the fascist party will remain §YNazism§!."
+ world_at_war_3_a2_tt:0 "The sub-ideology of the fascist party will become §YNazism§!."
+ world_at_war.3.b:0 "Fascism"
+ world_at_war_3_b1_tt:0 "The sub-ideology of the fascist party will remain §YFascism§!."
+ world_at_war_3_b2_tt:0 "The sub-ideology of the fascist party will become §YFascism§!."
+ world_at_war.3.c:0 "Falangism"
+ world_at_war_3_c1_tt:0 "The sub-ideology of the fascist party will remain §YFalangism§!."
+ world_at_war_3_c2_tt:0 "The sub-ideology of the fascist party will become §YFalangism§!."
+ world_at_war.3.d:0 "Ultranationalism"
+ world_at_war_3_d1_tt:0 "The sub-ideology of the fascist party will remain §YUltranationalism§!."
+ world_at_war_3_d2_tt:0 "The sub-ideology of the fascist party will become §YUltranationalism§!."
+
+ world_at_war.4.t:0 "Ideological Commitment"
+ world_at_war.4.desc:0 "At the latest [ROOT.GetCommunistParty] party conference in [ROOT.capital.GetCapitalVictoryPointName], the future of the party and its ideology has been brought up as the main topic for debate. Either we keep the current party line under the leadership of [ROOT.GetCommunistLeader], or elect someone else in favour of different values."
+ world_at_war.4.a:0 "Marxism"
+ world_at_war_4_a1_tt:0 "The sub-ideology of the communist party will remain §YMarxism§!."
+ world_at_war_4_a2_tt:0 "The sub-ideology of the communist party will become §YMarxism§!."
+ world_at_war.4.b:0 "Anarcho-Syndicalism"
+ world_at_war_4_b1_tt:0 "The sub-ideology of the communist party will remain §YAnarcho-Syndicalism§!."
+ world_at_war_4_b2_tt:0 "The sub-ideology of the communist party will become §YAnarcho-Syndicalism§!."
+ world_at_war.4.c:0 "Totalism"
+ world_at_war_4_c1_tt:0 "The sub-ideology of the communist party will remain §YTotalism§!."
+ world_at_war_4_c2_tt:0 "The sub-ideology of the communist party will become §YTotalism§!."
+ world_at_war.4.d:0 "Internationalism"
+ world_at_war_4_d1_tt:0 "The sub-ideology of the communist party will remain §YInternationalism§!."
+ world_at_war_4_d2_tt:0 "The sub-ideology of the communist party will become §YInternationalism§!."
+ 
+ 
+ 
+ 
+ world_at_war.5.t:0 "Doctrinal Expertise"
+ world_at_war.5.desc:0 "Throughout the last years we've put much effort into developing our land doctrine to perfection. With our latest effort completed, it's time for our dedicated army theorist to specialize in a category of choice."
+ world_at_war.5.a:0 "Mobile Warfare"
+ world_at_war.5.b:0 "Superior Firepower"
+ world_at_war.5.c:0 "Grand Battleplan"
+ world_at_war.5.d:0 "Mass Assault"
+ 
+ world_at_war.6.t:0 "Doctrinal Expertise"
+ world_at_war.6.desc:0 "Throughout the last years we've put much effort into developing our air doctrine to perfection. With our latest effort completed, it's time for our dedicated air theorist to specialize in a category of choice."
+ world_at_war.6.a:0 "Strategic Destruction"
+ world_at_war.6.b:0 "Battlefield Support"
+ world_at_war.6.c:0 "Operational Integrity"
+ 
+ world_at_war.7.t:0 "Doctrinal Expertise"
+ world_at_war.7.desc:0 "Throughout the last years we've put much effort into developing our naval doctrine to perfection. With our latest effort completed, it's time for our dedicated naval theorist to specialize in a category of choice."
+ world_at_war.7.a:0 "Fleet In Being"
+ world_at_war.7.b:0 "Trade Interdiction"
+ world_at_war.7.c:0 "Base Strike"
+ 
+ world_at_war.8.t:0 "Fabricated Claims"
+ world_at_war.8.desc:0 "Recent historical findings in a [FROM.FROM.GetAdjective] state show shocking results, exposing long lost connections between the [ROOT.GetAdjective] people and this region. The government of [FROM.FROM.GetName] has condemned these findings as falsified news, but our expert 'historians' insist on their authenticity."
+ world_at_war.8.a:0 "It's rightfully ours, everyone knows it!"
+ 
+ 
+ 
+ 
+ 
+ world_at_war_news.1.t:0 "Proclamation of [FROM.GetNameDef]"
+ world_at_war_news.1.desc:0 "Following their recent conquests, the former [FROM.GetOldNameDef] government has announced the creation of [FROM.GetNameDef], sending a clear message of their greatness."
+ world_at_war_news.1.a:0 "It won't last long!"
+ world_at_war_news.1.b:0 "Is this the birth of a new world power?"
+ world_at_war_news.1.c:0 "A glorious day for all [FROM.GetAdjective]s!"
+ world_at_war_news.1.d:0 "It will last for a thousand years!"
+ 
+ 
+ world_at_war_news.2.t:0 "Dissolution of [FROM.GetNameDef]"
+ world_at_war_news.2.desc:0 ""
+ world_at_war_news.2.a:0 "Another empire falls."
+ world_at_war_news.2.b:0 "Our dreams are gone, but not forgotten."
+ 
+ 
+ 
+ 

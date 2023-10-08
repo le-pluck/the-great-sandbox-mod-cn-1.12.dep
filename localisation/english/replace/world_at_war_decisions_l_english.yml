@@ -1,0 +1,204 @@
+﻿l_english:
+
+ world_at_war_formables_category:0 "Formable Nations"
+ world_at_war_formables_category_desc:0 "Out nation has expanded its borders up to the point where all other nations have to acknowledge our might!"
+ 
+ world_at_war_border_state_aggression_category:0 "Gunboat Diplomacy"  #Border State Aggression
+ world_at_war_claim_border_state_decision:0 "Claim [FROM.GetName]"
+ world_at_war_claim_border_state_decision_desc:0 "Fabricate a claim on [FROM.GetName] for the glory of [ROOT.GetNameDef]!"
+ world_at_war_claim_border_state_decision_tt:0 "Another foreign §Ystate§! cannot be claimed for §R365 days§!."
+
+ 
+ 
+ ammunition_rationing_decision:0 "Ammunition Rationing"
+ ammunition_rationing_decision_desc:0 ""
+ ammunition_rationing_decision_modifier_tooltip:0 "£ammo_consumption_texticon  Ammunition Consumption §G-20%§!"
+ 
+ OG_nuclear_sanitation_decision_category:0 "Nuclear Sanitation Category"
+ nuclear_sanitation_state_decision:0 "Nuclear Sanitation Effort in [FROM.GetName]"
+ nuclear_sanitation_state_decision_desc:0 ""
+ nuclear_sanitation_state_decision_trigger_tt:0 "Has any level of §YNuclear Devestation§!"
+ 
+ 
+ 
+ 
+ OG_debug_flag_decision_category:0 "DEBUG Flag Switcher"
+ OG_debug_flag_decision_category_desc:0 "§YOnly the ruling ideology's flag will be previewed.§!\nIdeology Group 1 - Socialism, Stratocratism, Nazism, Marxism\nIdeology group 2 - Liberalism, Corporatism, Fascism, Anarcho-Syndicalism\nIdeology group 3 - Conservatism, Despotism, Falangism, Totalism\nIdeology group 4 - Centrism, Theocratism, Ultranationalism, Internationalism"
+ 
+ 
+
+ 
+ OG_company_expansions_decisions_category:0 "Company Expansion Projects"
+ 
+ OG_generic_light_tank_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Mobile Machineries"
+ OG_generic_medium_tank_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Tank Workshop"
+ OG_generic_heavy_tank_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Tractor Manufacturer"
+ OG_generic_tank_refurbishment_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Refurbishment Plant"
+ 
+ OG_generic_battlefleet_naval_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Cruise Lines"
+ OG_generic_coastal_naval_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Coastguard Service"
+ OG_generic_raiding_naval_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Grand Shipyard"
+ OG_generic_convoy_escort_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Sailing Organization"
+ 
+ OG_generic_light_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Aviation Club"
+ OG_generic_cas_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Stunt Innovations Group"
+ OG_generic_medium_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Pilots Association"
+ OG_generic_heavy_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Airlines"
+ OG_generic_naval_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Maritime Aeronautics"
+ OG_generic_transport_aircraft_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Airlift"
+ 
+ OG_generic_industrial_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] Industrial Works"
+ OG_generic_electronics_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] Electronic Solutions"
+ OG_generic_refinery_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] Refinery Concern"
+ OG_generic_mining_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] Mining Corporation"
+ OG_generic_railway_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] State Railways"
+ OG_generic_construction_concern_decision:0 "Expand [ROOT.GetNonIdeologyName] Constructions"
+ OG_generic_research_institute_decision:0 "Expand [ROOT.GetNonIdeologyName] Research Institute"
+ OG_generic_artillery_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Cannon Foundry"
+ OG_generic_infantry_equipment_company_decision:0 "Expand [ROOT.GetNonIdeologyName] Armament Factory"
+ OG_generic_motorization_company_decision:0 "Expand [ROOT.GetNonIdeologyName] Motors Company"
+ OG_generic_mechanized_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Automotive Performance"
+ OG_generic_rocketry_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Pyrotechnical Systems"
+ OG_generic_support_equipment_manufacturer_decision:0 "Expand [ROOT.GetNonIdeologyName] Supportive Productions"
+ 
+ 
+
+ 
+ 
+ internal_politics_decision_elect_new_leader:0 "Motion of No Confidence"
+ internal_politics_decision_elect_new_leader_desc:0 "The current leader of our party has less than desirable traits and is deemed unfit to represent our country. Hopefully the successor will perform better..."
+ internal_politics_decision_elect_new_leader_tt:0 "A new §YParty Leader§! with a randomized trait will automatically be elected."
+ 
+ 
+ give_refuge_generic:0 "Give refuge to foreign scientists"
+ 
+ 
+ 
+ ### FORMABLES ###
+ 
+ world_at_war_form_empire_decision:0 "Proclaim Greatness!"
+ world_at_war_form_empire_decision_desc:0 "This will replace your country's flag with a blank version due to a game limitation, sorry."
+ 
+ 
+ 
+ 
+ world_at_war_FORMABLE_FRANCE_CATEGORY:0 "Form France"
+ world_at_war_FORMABLE_GERMANY_CATEGORY:0 "Form Germany"
+ world_at_war_FORMABLE_BRITAIN_CATEGORY:0 "Form Britain"
+ world_at_war_FORMABLE_RUSSIA_CATEGORY:0 "Form Russia"
+ world_at_war_FORMABLE_CHINA_CATEGORY:0 "Form China"
+ world_at_war_FORMABLE_JAPAN_CATEGORY:0 "Form Japan"
+ world_at_war_FORMABLE_NORDEN_CATEGORY:0 "Form Norden"
+ world_at_war_FORMABLE_ITALY_CATEGORY:0 "Form Italy"
+ world_at_war_FORMABLE_USA_CATEGORY:0 "Form United States of America"
+ 
+ 
+ 
+ world_at_war_FORMABLE_FRANCE_decision:0 "Form France"
+ world_at_war_FORMABLE_GERMANY_decision:0 "Form Germany"
+ world_at_war_FORMABLE_BRITAIN_decision:0 "Form Britain"
+ world_at_war_FORMABLE_RUSSIA_decision:0 "Form Russia"
+ world_at_war_FORMABLE_CHINA_decision:0 "Form China"
+ world_at_war_FORMABLE_JAPAN_decision:0 "Form Japan"
+ world_at_war_FORMABLE_NORDEN_decision:0 "Form Norden"
+ world_at_war_FORMABLE_ITALY_decision:0 "Form Italy"
+ world_at_war_FORMABLE_USA_decision:0 "Form United States of America"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ political_actions:0 "Political Actions"
+ #Scrapped for now, maybe some other day
+ #political_actions_desc:0 "[FROM.Get_democratic_opposition_scripted_loc][FROM.Get_neutrality_opposition_scripted_loc][FROM.Get_fascism_opposition_scripted_loc][FROM.Get_communism_opposition_scripted_loc]"
+ 
+ 
+ 
+ democratic_party_opinion_of_government:0"£pol_power §Y[ROOT.GetDemocraticParty]§! Opinion of the [ROOT.GetRulingIdeology] government: [?ROOT.democratic_party_opinion_of_government_variable|+0]"
+ neutrality_party_opinion_of_government:0"\n£pol_power §Y[ROOT.GetNeutralParty]§! Opinion of the [ROOT.GetRulingIdeology] government: [?ROOT.neutrality_party_opinion_of_government_variable|+0]"
+ fascism_party_opinion_of_government:0"\n£pol_power §Y[ROOT.GetFascistParty]§! Opinion of the [ROOT.GetRulingIdeology] government: [?ROOT.fascism_party_opinion_of_government_variable|+0]"
+ communism_party_opinion_of_government:0"\n£pol_power §Y[ROOT.GetCommunistParty]§! Opinion of the [ROOT.GetRulingIdeology] government: [?ROOT.communism_party_opinion_of_government_variable|+0]"
+ empty_party_opinion_of_government:0 ""
+ 
+ 
+ 
+ 
+
+ 
+ 
+ ### OPPOSITION ###
+ #Supportive
+ #
+ #Government Collaboration: +1% gov popularity
+ #Civil Service: +5 pp
+ #Support the war: +0.005 war support: War not against own ideology
+ #Encourage unity: +0.005 stability
+ #
+ #Democratic Special - Encourage Citizens: + Compliance modifier
+ #Neutrality Special - Lobbyism: -10% advisor & policy cost modifier
+ #Fascism Special - Paramilitary Action: -0.10% training time modifier
+ #Communism Special - Anti-Consumerism: -0.01 Consumer Goods modifier
+ #
+ #
+ #
+
+ #Normal
+ #
+ #Gather support: +1% own popularity
+ #Arrange Public Debate: -1% random other party popularity
+ #Public Action: -5 pp
+ #
+ #
+
+ #Hostile
+ #
+ #Incite civil unrest: -0.005 stability
+ #Discredit government: -1% gov popularity
+ #Condemn the war: -0.005 war support: War against own ideology
+ #
+ #
+ #Democratic Special - Encourage the Resistance: +0.01 resistance modifier
+ #Neutrality Special - Leak documents: -5% civilian intel modifier
+ #Fascism Special - Street Violence: Damage infrastructure
+ #Communism Special - Workers Strike: -1% Production output modifier
+ #
+ 
+ ### SUPPORTIVE ###
+ 
+ OG_fascist_opposition_action_support_war:0 "[ROOT.GetFascistParty] - Support the War Effort"
+ OG_fascist_opposition_action_support_war_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are supporting our war effort!"
+ 
+ OG_fascist_opposition_action_civil_service:0 "[ROOT.GetFascistParty] - Civil Service"
+ OG_fascist_opposition_action_civil_service_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are supporting the government through civil service!"
+ 
+ OG_fascist_opposition_action_encourage_unity:0 "[ROOT.GetFascistParty] - Encourage Unity"
+ OG_fascist_opposition_action_encourage_unity_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are encouraging unity!"
+ 
+ OG_fascist_opposition_action_government_collaboration:0 "[ROOT.GetFascistParty] - Adopting Our Policies"
+ OG_fascist_opposition_action_government_collaboration_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are adopting our policies!"
+ 
+ ### NORMAL ###
+ 
+ OG_fascist_opposition_action_gather_support:0 "[ROOT.GetFascistParty] - Gather Support"
+ OG_fascist_opposition_action_gather_support_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are gathering support!"
+ 
+ 
+ OG_fascist_opposition_action_arrange_debate:0 "[ROOT.GetFascistParty] - Arrange Political Debate"
+ OG_fascist_opposition_action_arrange_debate_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are arranging a political debate!"
+ 
+ OG_fascist_opposition_action_public_action:0 "[ROOT.GetFascistParty] - Public Action"
+ OG_fascist_opposition_action_public_action_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are arranging a public action!"
+ 
+ 
+ ### HOSTILE ###
+ 
+ OG_fascist_opposition_action_condemn_war:0 "[ROOT.GetFascistParty] - Condemn the War Effort"
+ OG_fascist_opposition_action_condemn_war_desc:0 "[ROOT.GetFascistLeader] and the [ROOT.GetFascistParty] are condemning our war effort!"
+ 
+ 
+ 
