@@ -1,8 +1,9 @@
 ﻿# 
 # 写在前面：
 # 1. 在原 mod 中，部分国策描述为空，CN 版用 §Y无§! 代替显示到游戏。
-# 2. 部分描述为空的国策，译者作了补充，在补充行后面以 `# transsup` (TRANSlator's SUPplement) 标出。
-# 3. 部分描述不够合适的地方，译者直接做了修改/优化。因程度不便界定，未标出所有修改。
+# 2. 部分描述为空的国策，但在原版中有相同含义的描述，挪用之。未标出相关修改。
+# 3. 部分描述为空的国策，译者自行作了补充，在补充行后面以 `# transsup` (TRANSlator's SUPplement) 标出。
+# 4. 部分描述不够合适的地方，译者直接做了修改/优化。因程度不便界定，未标出所有修改。
 #
 l_simp_chinese:
 
@@ -378,69 +379,69 @@ l_simp_chinese:
  
  ### Neutrality ###
  
- OG_liberty_ethos_focus:0 "Liberty Ethos"
- OG_liberty_ethos_focus_desc:0 "In this time of ideological fanatics who seek to suffocate the human spirit, we will safeguard individual liberties and freedom."
+ OG_liberty_ethos_focus:0 "自由精神"
+ OG_liberty_ethos_focus_desc:0 "在这个意识形态狂热分子企图扼杀人类精神的时代，我们将捍卫个人自由。"
  
- OG_neutrality_focus:0 "Isolationism"
- OG_neutrality_focus_desc:0 "While others may claim it takes bravery and wisdom to take sides in a global conflict, we know it takes more to refuse."
+ OG_neutrality_focus:0 "孤立主义"
+ OG_neutrality_focus_desc:0 "别人可能会说，在全球冲突中站在哪一边需要勇气和智慧，但我们知道，拒绝需要更多的勇气和智慧。"
  
- OG_neutrality_trade_focus:0 "Open Trade Agreements"
+ OG_neutrality_trade_focus:0 "开放贸易协定"
  OG_neutrality_trade_focus_desc:0 "§Y无§!"
  
- OG_concessions_focus:0 "Realpolitik"   #Flexible Foreign Policy
- OG_concessions_focus_desc:0 "§Y无§!"
+ OG_concessions_focus:0 "现实政治"   #Flexible Foreign Policy
+ OG_concessions_focus_desc:0 "我们需要采取灵活的外交政策，以确保自身利益。"  # transsup
  
  OG_deterrence_focus:0 "保持威慑"
  OG_deterrence_focus_desc:0 "在被孤立的情况下我们很难从战争中获益。幸运的是，我们明白最好的防御就是让所有人不会敢于侵犯我们的威慑。"
  
- OG_shelter_refugees_focus:0 "Asylum Haven"
+ OG_shelter_refugees_focus:0 "难民庇护天堂"
  OG_shelter_refugees_focus_desc:0 "§Y无§!"
  
- OG_perseverance_focus:0 "Perseverance of Peace"
- OG_perseverance_focus_desc:0 "Reassurance"
+ OG_perseverance_focus:0 "坚守和平"
+ OG_perseverance_focus_desc:0 "再次确保和平。"
  
- OG_the_greater_good_focus:0 "The Greater Good"
- OG_the_greater_good_focus_desc:0 "§Y无§!"
+ OG_the_greater_good_focus:0 "更大的和平"
+ OG_the_greater_good_focus_desc:0 "局限于短视的、一国的和平是没有希望的，我们要积极争取更大的和平。"  # transsup
  
- OG_king_and_country_focus:0 "For King and Country!"
+ OG_king_and_country_focus:0 "为了国王，为了国家！"
  OG_king_and_country_focus_desc:0 "§Y无§!"
  
  
  ### Democratic ###
 
- OG_interventionism_focus:0 "Interventionism"
- OG_interventionism_focus_desc:0 "We value the freedom of all people, not only our own citizens. If preventing tyranny means war, then so be it."
+ OG_interventionism_focus:0 "干涉主义"
+ OG_interventionism_focus_desc:0 "我们珍视所有人的自由，而不仅仅是本国公民的自由。如果阻止暴政意味着战争，那就战争。"
  
  OG_volunteer_corps_focus:0 "志愿部队"
  OG_volunteer_corps_focus_desc:0 "虽说逼迫我们的人民为了自由的理想而去牺牲是十分讽刺的，但为那些希望帮助外国人取得自由的人提供一个机会就是另外一回事了。"
 
- OG_lend_lease_program_focus:0 "Lend Lease Program"
+ OG_lend_lease_program_focus:0 "租借计划"
  OG_lend_lease_program_focus_desc:0 "§Y无§!"
  
- OG_guarantees_focus:0 "Global Peace Act"
- OG_guarantees_focus_desc:0 "Gurantees & Sanctions"
+ OG_guarantees_focus:0 "全球和平法案"
+ OG_guarantees_focus_desc:0 "保障与制裁"
  
- OG_united_high_command_focus:0 "United Allied High Command"
- OG_united_high_command_focus_tt:0 "All §YAllied Nations§! will also gain this §GBonus§! while in your §YFaction§!."
+ OG_united_high_command_focus:0 "联合盟军最高司令部"
+ OG_united_high_command_focus_tt:0 "在你§Y阵营§!中的所有§Y盟友§!也会获得这个§G加成§！。"
  
- OG_arsenal_of_democracy_focus:0 "Arsenal of Democracy"
- OG_arsenal_of_democracy_focus_desc:0 "§Y无§!"
+ OG_arsenal_of_democracy_focus:0 "民主兵工厂"
+ OG_arsenal_of_democracy_focus_desc:0 "尽管眼下我们还不应卷入战争，但我们可以作为兵工厂援助我们的盟友。行动起来，让人民知晓这样做的理由。"
  
- OG_jurisdiction_focus:0 "Modern Jurisdiction"
+ OG_jurisdiction_focus:0 "现代司法权"
  OG_jurisdiction_focus_desc:0 "§Y无§!"
  
- OG_reprisal_focus:0 "Reprisal Bombers"
+ OG_reprisal_focus:0 "复仇轰炸机"
  OG_reprisal_focus_desc:0 "§Y无§!"
  
- OG_bastion_of_democracy_focus:0 "Bastion of Liberty"
+ OG_bastion_of_democracy_focus:0 "自由的堡垒"
  OG_bastion_of_democracy_focus_desc:0 "§Y无§!"
 
- OG_international_recognition_focus:0 "Seek International Recognition"
+ OG_international_recognition_focus:0 "寻求国际承认"
  OG_international_recognition_focus_desc:0 "§Y无§!"
 
- OG_create_agency_focus:0 "Central Intelligence"
+ OG_create_agency_focus:0 "中央情报局"
  OG_create_agency_focus_desc:0 "§Y无§!"
- OG_create_agency_focus_tt:0 "Unlocks operation: §YFabricate Claim on State§!. (Requires §YCivilian Administration Infiltration§!)\n\n[GetAgencyRequirement]"
+ OG_create_agency_focus_tt:0 "解锁行动: §Y制造地区宣称§!. (需要 §Y渗透民政管理机构§!)\n\n[GetAgencyRequirement]"
  
  
  OG_why_we_fight_focus:0 "我们为何而战"
